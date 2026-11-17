@@ -1,7 +1,46 @@
-:root { --md-primary-fg-color: #254d49; --md-accent-fg-color: #007f73; }
+/* Palette sampled from aaronmaret.com: green #427300, charcoal #241e12,
+   cream #faf9f5, and yellow #ffcf00. */
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color: #ffffff;
+  --md-primary-bg-color: #241e12;
+  --md-default-bg-color: #faf9f5;
+  --md-default-fg-color: #241e12;
+  --md-default-fg-color--light: #625d52;
+  --md-default-fg-color--lighter: #8b867c;
+  --md-default-fg-color--lightest: #241e121f;
+  --md-typeset-a-color: #427300;
+  --md-accent-fg-color: #427300;
+  --md-accent-fg-color--transparent: #4273001a;
+  --md-accent-bg-color: #ffffff;
+  --md-code-bg-color: #eeece5;
+  --md-code-fg-color: #241e12;
+  --md-footer-bg-color: #241e12;
+  --md-footer-bg-color--dark: #241e12;
+}
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #241e12;
+  --md-primary-bg-color: #faf9f5;
+  --md-default-bg-color: #241e12;
+  --md-default-fg-color: #faf9f5;
+  --md-default-fg-color--light: #d2cec3;
+  --md-default-fg-color--lighter: #a8a295;
+  --md-default-fg-color--lightest: #faf9f526;
+  --md-typeset-a-color: #ffcf00;
+  --md-accent-fg-color: #ffcf00;
+  --md-accent-fg-color--transparent: #ffcf001a;
+  --md-accent-bg-color: #241e12;
+  --md-code-bg-color: #342d20;
+  --md-code-fg-color: #faf9f5;
+  --md-footer-bg-color: #1b160d;
+  --md-footer-bg-color--dark: #1b160d;
+}
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+.md-header { border-bottom: 3px solid #ffcf00; }
 .md-typeset h1 { font-weight: 650; letter-spacing: -.03em; color: var(--md-default-fg-color); }
 .md-typeset h2 { font-weight: 600; }
 .md-header__title { letter-spacing: .025em; }
-.md-typeset table:not([class]) th { background: #254d49; color: white; }
+.md-typeset table:not([class]) th { background: #241e12; color: #faf9f5; border-bottom: 2px solid #ffcf00; }
 .md-typeset table:not([class]) { font-size: .78rem; }
+[data-md-color-scheme="default"] .md-search__form { background-color: #241e120d; }
+[data-md-color-scheme="default"] .md-search__input::placeholder { color: #625d52; }
+::selection { background: #ffcf00; color: #241e12; }
