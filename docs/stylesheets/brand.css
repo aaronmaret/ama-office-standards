@@ -44,3 +44,10 @@ body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
 [data-md-color-scheme="default"] .md-search__form { background-color: #241e120d; }
 [data-md-color-scheme="default"] .md-search__input::placeholder { color: #625d52; }
 ::selection { background: #ffcf00; color: #241e12; }
+
+/* Preserve the supplied logo proportions in the header and mobile drawer. */
+.md-header__button.md-logo img,
+.md-nav__title .md-nav__button.md-logo img {
+  height: 1.6rem;
+  width: auto;
+}
