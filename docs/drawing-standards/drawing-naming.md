@@ -1,39 +1,76 @@
-# Drawing naming
+# Drawing Title Naming Convention
 
-**Status:** Draft — initial proposed protocol  
+**Protocol:** DS-03  
 **Last revised:** November 17, 2026
 
-## Sheet titles
+!!! note "Source and status"
+    Imported from the November 17, 2026 conversation export. Its status labels are retained; some earlier decisions were recovered from summaries rather than complete original discussions. Proposed and unresolved material is not adopted office policy.
 
-Use concise, descriptive titles in uppercase in the drawing set. Name the content rather than repeating the sheet number. Match the title block and drawing index exactly.
+**Status:** Proposed\
+Recommendation issued: November 17, 2026
 
-Examples: `FLOOR PLANS`, `EXTERIOR ELEVATIONS`, `BUILDING SECTIONS`, and `DOOR AND WINDOW SCHEDULES`.
+The recommended convention is:
 
-## Individual drawing titles
+Drawing Type – Building Level or Area
 
-Name each view by its subject, adding level, orientation, or location where needed to distinguish it.
+The drawing type precedes the level designation.
 
-| View | Example title |
-| --- | --- |
-| Floor plan | LEVEL 1 FLOOR PLAN |
-| Roof plan | ROOF PLAN |
-| Exterior elevation | NORTH EXTERIOR ELEVATION |
-| Building section | BUILDING SECTION |
-| Enlarged plan | ENLARGED RESTROOM PLAN |
-| Interior elevation | RESTROOM — NORTH ELEVATION |
-| Detail | WINDOW HEAD DETAIL |
-| Diagram | CIRCULATION DIAGRAM |
+## Examples
 
-Use the same level and room names throughout the set. Avoid titles that rely on an undocumented abbreviation or a temporary description such as “new detail.”
+| Drawing type           | Main level                          | Upper level                          |
+| ---------------------- | ----------------------------------- | ------------------------------------ |
+| Floor Plan             | Floor Plan – Main Level             | Floor Plan – Upper Level             |
+| MEP Plan               | MEP Plan – Main Level               | MEP Plan – Upper Level               |
+| Reflected Ceiling Plan | Reflected Ceiling Plan – Main Level | Reflected Ceiling Plan – Upper Level |
+| Framing Plan           | Framing Plan – Main Level           | Framing Plan – Upper Level           |
+| Finish Plan            | Finish Plan – Main Level            | Finish Plan – Upper Level            |
 
-## Titles, identifiers, and scales
+The alternative convention, Main Level Floor Plan, was considered but not recommended.
 
-Keep the drawing identifier, title, and scale as separate coordinated fields. The title describes the view; the reference identifies where to find it. Show a scale appropriate to the issued sheet size, or `NTS` for a view intentionally not to scale.
+## Proposed office-standard language
 
-Do not embed revision dates or issue descriptions in a permanent drawing title. Track those in the issue and revision records.
+> Drawing titles shall identify the drawing type first, followed by the building level, area, or other applicable designation, separated by an en dash. Drawing type terminology shall remain consistent throughout the drawing set.
 
-## Before issue
+## Sheet titles versus drawing titles
 
-Check that titles agree with view content, similar views use parallel wording, and every referenced view can be found by its identifier and sheet number.
+Sheet titles and individual drawing titles may differ.
 
-**Related:** [Sheet numbering](sheet-numbering.md) · [Tagging protocols](tagging.md)
+Example:
+
+Sheet A20 — FLOOR PLANS
+
+- Drawing 1: FLOOR PLAN – MAIN LEVEL
+- Drawing 2: FLOOR PLAN – UPPER LEVEL
+
+Alternatively:
+
+Sheet A21 — MAIN LEVEL PLANS
+
+- Drawing 1: FLOOR PLAN – MAIN LEVEL
+- Drawing 2: MEP PLAN – MAIN LEVEL
+
+Both arrangements are compatible with the proposed drawing-title convention.
+
+## MEP terminology
+
+Use MEP Plan when the drawing genuinely combines mechanical, electrical, and plumbing information.
+
+Use Electrical Plan when the drawing primarily shows receptacles, switches, and related electrical devices.
+
+This distinction was recommended but not formally adopted.
+
+## Level terminology
+
+Use consistent terminology throughout a drawing set, such as:
+
+- Main Level
+- Upper Level
+- Lower Level
+
+Avoid alternating between First Floor, Ground Floor, and Main Level for the same building level.
+
+Status: Proposed.
+
+## Related standards
+
+[Architectural Sheet Series](sheet-numbering.md) · [General Drawing Tagging Principles](tagging.md) · [General Schedule Identification Protocol](../schedules/general-schedule-identification-protocol.md)

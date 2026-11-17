@@ -2,20 +2,31 @@
 
 **Aaron Maret Architect · Drawing + documentation**
 
-A working reference for clear, consistent architectural documents. Each protocol records its status and revision date so established conventions remain distinct from proposals.
+A working reference for consistent architectural documentation, from early selections through construction drawings.
 
-## Start here
+## Explore the manual
 
-| Reference | Purpose | Status |
-| --- | --- | --- |
-| [Sheet numbering](drawing-standards/sheet-numbering.md) | Organize architectural sheets from A0 through A9 | Current series assignments |
-| [Drawing naming](drawing-standards/drawing-naming.md) | Give sheets and individual views consistent titles | Draft |
-| [Tagging protocols](drawing-standards/tagging.md) | Coordinate view references, identifiers, and schedules | Draft |
+| Section | Contents |
+| --- | --- |
+| [Drawing standards](drawing-standards/sheet-numbering.md) | Sheet series and numbers, drawing titles, tags, callouts, and notes |
+| [Schedules + specifications](schedules/general-scheduling-philosophy.md) | Product schedules, door/window conventions, and the SD/DD selections book |
+| [Modeling + documentation](modeling/sketchup-layout-documentation-environment.md) | SketchUp, ConDoc, LayOut, scenes, annotations, and viewport workflows |
+| [Project delivery](project-delivery/drawing-set-organization-by-phase.md) | Phase organization, coordination, and proposed quality checks |
 
-## Using the manual
+## Status matters
 
-Use the sheet-numbering series as the starting point for each drawing set. Review draft naming and tagging conventions before adopting them for a project. Project-specific requirements and the issued drawing index must be coordinated with this manual.
+This manual contains **42 protocols** recovered from the November 17, 2026 conversation export. Each page preserves its source status. Confirmed items record established decisions reported in the export; proposed and unresolved items remain open for review.
 
-This public edition contains general office conventions and fictional examples only. It is not a project specification, building-code determination, or substitute for project-specific professional judgment.
+Some earlier discussions were available only through retained summaries. Incomplete wording, missing procedures, and unverified workbook settings are identified rather than reconstructed.
+
+- [Browse the complete protocol inventory](protocol-inventory.md)
+- [Review decisions still needed](decisions-needed.md)
+- [Read source and reliability notes](source-notes.md)
+
+## Current drawing framework
+
+Architectural sheets run from **A0 — General Information and Schedules** through **A7 — Diagrams**, with **A8 and A9 reserved**. DD/CD identifiers use `A` plus two digits, such as `A00` and `A20`. See [sheet numbering](drawing-standards/sheet-numbering.md) and [sheet number format](drawing-standards/sheet-number-format.md).
+
+This public edition contains general conventions and illustrative examples. Apply project-specific professional judgment and coordinate the issued drawing set.
 
 [Learn how to update the manual →](maintaining.md)

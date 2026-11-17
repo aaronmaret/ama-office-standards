@@ -1,40 +1,41 @@
-# Tagging protocols
+# General Drawing Tagging Principles
 
-**Status:** Draft — initial proposed protocol  
+**Protocol:** DS-04  
 **Last revised:** November 17, 2026
 
-## View references
+!!! note "Source and status"
+    Imported from the November 17, 2026 conversation export. Its status labels are retained; some earlier decisions were recovered from summaries rather than complete original discussions. Proposed and unresolved material is not adopted office policy.
 
-A drawing reference identifies both the target view and its sheet. In written examples, `3/A601` means drawing 3 on sheet A601. Use the office's graphic reference symbol in the drawing set; the slash notation here explains the relationship.
+**Status:** Proposed
 
-- Give each view a unique identifier on its sheet.
-- Make section, elevation, and detail markers point to an actual target view.
-- Keep reference identifiers coordinated when views move or sheets change.
-- Use distinct symbols for sections, elevations, and details so their purpose is clear.
+The recommended governing principle is:
 
-## Object and schedule identifiers
+> Tag each item primarily on the drawing where its location and installation are most clearly communicated. Repeat tags on other views only when they materially improve coordination.
 
-Distinguish an **instance mark**, which identifies a specific installed item, from a **type mark**, which identifies a shared definition. Record the chosen convention in the project legend before tagging begins.
+## Recommended primary tag locations
 
-| Item | Draft approach |
-| --- | --- |
-| Rooms | Unique room number; use the same name and number in plans and schedules |
-| Doors | Unique instance mark coordinated with the door schedule |
-| Windows | Type mark coordinated with the window schedule; use an additional instance identifier where individual tracking is required |
-| Fixtures and equipment | Category-specific identifiers coordinated with the applicable schedule |
-| Keynotes | Identifier linked to a defined note or specification reference in the project's keynote legend |
+| Item                 | Primary location                | Secondary location           | Recommended practice                           |
+| -------------------- | ------------------------------- | ---------------------------- | ---------------------------------------------- |
+| Windows              | Floor plans                     | Exterior elevations          | Tag on plans; repeat selectively on elevations |
+| Doors                | Floor plans                     | Interior/exterior elevations | Plans only, typically                          |
+| Cabinets + Built-ins | Interior elevations             | Floor plans                  | Elevations primarily; plans selectively        |
+| Appliances           | Floor plans                     | Interior elevations          | Plans primarily                                |
+| Mechanical equipment | Mechanical plans or floor plans | Sections/elevations          | Plans primarily                                |
+| Lights + Fans        | Reflected Ceiling Plan (RCP)    | Electrical plan              | RCP primarily                                  |
+| Receptacles          | Electrical power plan           | Interior elevations          | Symbols rather than individual IDs             |
 
-Exact prefixes, numbering ranges, and graphic shapes remain to be adopted. Do not infer an established AMA prefix system from this initial draft.
+## General conventions
 
-## Placement and legibility
+- Avoid redundant tagging when the relationship between views is clear.
+- Use secondary tags to resolve ambiguity or improve coordination.
+- Use consistent identifiers between drawings and schedules.
+- Distinguish product type identifiers from unique instance or assembly identifiers.
+- Minimize unnecessary annotation duplication in LayOut.
 
-Place tags consistently near the object they identify. Use leaders where the target could be ambiguous. Keep tags clear of dimensions, door swings, hatching, and other text. Check readability at the intended printed sheet size.
+## Proposed office-standard language
 
-## Before issue
+> Unique assembly IDs identify individual building elements. Type IDs identify repeatable products or configurations. Tags shall be located on the drawing that most clearly establishes the element's location, with secondary references provided only as necessary for coordination.
 
-1. Resolve duplicate instance marks and missing schedule entries.
-2. Verify that repeated type marks describe the same type.
-3. Check each callout's drawing and sheet reference.
-4. Reconcile tags, schedules, legends, and specifications after revisions.
+## Related standards
 
-**Related:** [Sheet numbering](sheet-numbering.md) · [Drawing naming](drawing-naming.md)
+[Architectural Sheet Series](sheet-numbering.md) · [Drawing Title Naming Convention](drawing-naming.md) · [General Schedule Identification Protocol](../schedules/general-schedule-identification-protocol.md)
