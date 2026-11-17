@@ -1,0 +1,45 @@
+site_name: AMA Office Standards
+site_description: Drawing and documentation protocols for Aaron Maret Architect.
+site_url: https://standards.aaronmaret.com/
+repo_url: https://github.com/aaronmaret/ama-office-standards
+repo_name: AMA / Office Standards
+edit_uri: edit/main/docs/
+strict: true
+theme:
+  name: material
+  font: false
+  palette:
+    - scheme: default
+      primary: custom
+      accent: teal
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: custom
+      accent: teal
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  features:
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.action.edit
+plugins:
+  - search
+markdown_extensions:
+  - tables
+  - admonition
+  - toc:
+      permalink: true
+extra_css:
+  - stylesheets/extra.css
+nav:
+  - Overview: index.md
+  - Drawing standards:
+      - Sheet numbering: drawing-standards/sheet-numbering.md
+      - Drawing naming: drawing-standards/drawing-naming.md
+      - Tagging protocols: drawing-standards/tagging.md
+  - Maintaining this manual: maintaining.md
