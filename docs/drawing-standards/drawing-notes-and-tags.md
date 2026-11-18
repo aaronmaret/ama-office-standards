@@ -31,6 +31,46 @@ This system applies to plans, elevations, sections, and details. Keynote numbers
 
 Tag each item primarily on the drawing where its location and installation are most clearly communicated. Repeat tags on other views only when they improve coordination.
 
+### Item Types
+
+Use item tags for the following categories when they reference a schedule, type legend, or defined assembly. Identify types, groups, or assemblies rather than every component unless individual identification is needed.
+
+| Item Category | Includes |
+| --- | --- |
+| Doors | Interior and exterior doors, including multi-leaf and sliding assemblies |
+| Windows + Skylights | Individual openings and window assemblies |
+| Cabinetry + Built-ins | Cabinet groups, vanities, shelving, benches, closets, and custom storage |
+| Appliances + Fireplaces | Kitchen and laundry appliances, specialty appliances, fireplaces, and inserts |
+| Plumbing Fixtures + Fittings | Sinks, faucets, toilets, tubs, shower components, and specialty fixtures |
+| Lighting | Interior and exterior luminaires, including wall-mounted fixtures |
+| Fans | Ceiling fans, exhaust fans, and combination fan/light units |
+| Mechanical Equipment | Heating, cooling, ventilation, dehumidification equipment, and controls |
+| Specialty Electrical + Low-Voltage Devices | Selected devices, controls, charging equipment, and communications or security equipment requiring a specific product reference |
+| Hardware + Accessories | Bath accessories, hooks, rods, specialty hardware, and door hardware groups |
+| Glass + Mirrors | Shower enclosures, screens, partitions, mirrors, and medicine cabinets |
+| Finishes + Surface Materials | Flooring, wall and ceiling finishes, tile, countertops, and backsplashes |
+| Window Treatments | Shades, blinds, draperies, tracks, and motorized systems |
+| Exterior Fixtures + Accessories | Hose bibbs, exterior showers, house numbers, mailboxes, and other scheduled site/building accessories |
+| Furniture | Scheduled or space-defining furniture requiring drawing coordination |
+| Construction Assembly Types | Wall, partition, floor, roof, and ceiling assemblies defined in a type legend or assembly schedule |
+| Structural Members + Foundation Elements | Beams, posts, columns, footings, and other elements identified in structural schedules or details, when included in the drawing scope |
+
+Standard receptacles and similar devices normally use symbols rather than individual item IDs. Add product tags only where a specific selection or installation requires one. Door hardware group references normally appear in the door schedule rather than at each hardware component.
+
+Room labels, grid references, and drawing callouts have separate identification functions.
+
+### Identifier Types
+
+| Identifier | What It Identifies | Typical Item Types | Example |
+| --- | --- | --- | --- |
+| **Instance** | One particular installed element or opening. Each instance has its own mark, even when several share the same product or type. | Doors, windows, and equipment or structural elements requiring individual tracking | Door `101`; window `1.01` |
+| **Type** | A repeatable product, configuration, material, or construction definition. All matching occurrences may share the mark. | Door/window types; lighting and fan types; appliances; plumbing products; hardware groups; finishes; wall/floor/roof types; repeatable furniture or equipment selections | Light type `L-01` at several locations; door type `A` assigned to several door instances |
+| **Assembly** | A coordinated group of components documented as one unit. The reference leads to the assembly's drawings, schedule entry, or fabrication requirements. | Custom built-ins, cabinet groups, stairs, railing assemblies, and custom glazing or other multi-component installations | Built-in `BI-01` identifies a complete storage bench, not each cabinet box or hardware component |
+
+**Instance and type identifiers can work together.** Doors `101` and `102` are separate instances but may both be door type `A` and use the same numeric hardware group. A repeated light type may need only its type tag unless individual tracking is required.
+
+**Assembly describes the scope of the identified item.** An assembly may have a unique instance mark or a repeatable type mark; it does not automatically need an additional competing ID. A door instance mark can identify the entire door assembly, while a custom built-in uses its assembly mark.
+
 ### Primary Tag Locations
 
 | Item | Primary Location | Secondary Use |
@@ -46,8 +86,7 @@ Tag each item primarily on the drawing where its location and installation are m
 ### Tag Coordination
 
 - Use consistent identifiers between drawings and schedules.
-- Instance identifiers identify individual elements; assembly identifiers identify particular assemblies. Type identifiers identify repeatable products or configurations.
-- Use secondary tags to resolve ambiguity, and avoid unnecessary duplicate annotation in LayOut.
+- Use secondary tags to resolve ambiguity, and avoid unnecessary duplicate annotation.
 
 ## General Note Placement
 

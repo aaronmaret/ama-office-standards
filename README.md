@@ -42,3 +42,5 @@ Migration validation compared article text on all 48 generated HTML pages, inclu
 - Do not assign protocol IDs. Product, drawing, and schedule identifiers retain their functional meaning.
 - Use Title Case for navigation titles.
 - Verify technical claims and current software behavior before presenting them as established requirements. Preserve unresolved decisions rather than inventing rules.
+
+Drawing Standards describe application-independent practices. Keep program-specific procedures in Modeling + Documentation.
