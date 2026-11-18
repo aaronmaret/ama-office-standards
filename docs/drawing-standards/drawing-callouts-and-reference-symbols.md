@@ -29,13 +29,13 @@ Examples: `AA/A4.01` refers to Building Section AA on A4.01; `5/A6.01` refers to
 | Column Grid ID | Circle at the end of a gridline | Grid reference |
 | Datum / Elevation Point | Quartered circular target with crossing axes | Reference point for an elevation or datum |
 | Room Name / Room ID | Room name above a rectangular number box | Room name and unique room identifier |
-| Wall Tag | Square identifier box with a leader | Wall type |
+| Assembly Tag | Square identifier box with a leader where needed | Wall, floor, roof, ceiling, foundation, or specialty construction assembly: `WA1`, `FA2`, `RA01`, etc. |
 | Door Tag | Circle | Door instance |
 | Window Tag | Hexagon | Window instance |
 | Keynote Tag | Rounded capsule, with a leader where needed | Numeral in the same sheet's keynote list |
 | Item Tag | Elongated hexagon | General item identifier: two-letter category designator immediately followed by one or two numerals; no separator |
 
-Symbol shape identifies the kind of reference. The text inside carries the applicable identifier. The legend's `00`, `000`, `A0.00`, and `E.00` labels are graphic examples, not required identifier formats. Use the numbering and identifiers established for the project; keynotes use numerals only. General Item Tags follow `XX1` or `XX01` (two letters plus numerals), replacing the legend's sample `E.00` format. Windows, doors, wall assemblies, lights, and fans retain their category-specific tag types.
+Symbol shape identifies the kind of reference. The text inside carries the applicable identifier. The legend's `00`, `000`, `A0.00`, and `E.00` labels are graphic examples, not required identifier formats. Use the numbering and identifiers established for the project; keynotes use numerals only. General Item Tags use two-letter category codes followed immediately by one or two numerals, such as `AP1` or `AP01`, replacing the legend's sample `E.00` format. Square Assembly Tags use the same compact format, such as `WA1` or `FD01`. Windows, doors, lights, and fans retain their category-specific tags.
 
 ## Lines and Work Conditions
 
@@ -61,7 +61,7 @@ Symbol shape identifies the kind of reference. The text inside carries the appli
 
 ## Symbol Legend
 
-The graphic reference below records the current symbol shapes and line conventions. Apply the identifier formats described above rather than copying its placeholder text.
+The reference image below shows the symbol shapes and line conventions. The square labeled **Wall Tag** is now the **Assembly Tag**. Apply the current names and identifier formats above rather than copying the image's sample labels.
 
 ![AMA drawing symbol legend](../assets/ama-symbol-legend.png)
 

@@ -22,9 +22,9 @@
 
 | ID    | Fixture         | Location     | Manufacturer | Model | Finish |
 | ----- | --------------- | ------------ | ------------ | ----- | ------ |
-| PF-01 | Lavatory faucet | Primary Bath | TBD          | TBD   | Chrome |
-| PF-02 | Lavatory sink   | Primary Bath | TBD          | TBD   | White  |
-| PF-03 | Toilet          | Bathrooms    | TBD          | TBD   | White  |
+| PF01 | Lavatory faucet | Primary Bath | TBD          | TBD   | Chrome |
+| PF02 | Lavatory sink   | Primary Bath | TBD          | TBD   | White  |
+| PF03 | Toilet          | Bathrooms    | TBD          | TBD   | White  |
 
 ## Recommended rules
 

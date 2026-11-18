@@ -22,9 +22,9 @@ The recommendation was to incorporate countertops and backsplashes into a unifie
 
 | ID    | Finish / Material | Application        | Product / Reference | Remarks        |
 | ----- | ----------------- | ------------------ | ------------------- | -------------- |
-| CT-01 | Quartz            | Kitchen counters   | TBD                 | Eased edge     |
-| BS-01 | Ceramic tile      | Kitchen backsplash | TBD                 | See elevations |
-| FL-01 | White oak         | Living areas       | TBD                 | Natural finish |
+| FN01 | Quartz            | Kitchen counters   | TBD                 | Eased edge     |
+| FN02 | Ceramic tile      | Kitchen backsplash | TBD                 | See elevations |
+| FN03 | White oak         | Living areas       | TBD                 | Natural finish |
 
 ## Drawing coordination
 

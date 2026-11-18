@@ -24,9 +24,9 @@
 
 | ID    | Item         | Location | Manufacturer | Model | Remarks     |
 | ----- | ------------ | -------- | ------------ | ----- | ----------- |
-| AP-01 | Refrigerator | Kitchen  | TBD          | TBD   | Panel-ready |
-| AP-02 | Range        | Kitchen  | TBD          | TBD   | 36"         |
-| AP-03 | Dishwasher   | Kitchen  | TBD          | TBD   | Integrated  |
+| AP01 | Refrigerator | Kitchen  | TBD          | TBD   | Panel-ready |
+| AP02 | Range        | Kitchen  | TBD          | TBD   | 36"         |
+| AP03 | Dishwasher   | Kitchen  | TBD          | TBD   | Integrated  |
 
 ## Coordination
 

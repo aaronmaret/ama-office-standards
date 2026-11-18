@@ -21,10 +21,10 @@
 
 | ID    | Item       | Application | Manufacturer / Model | Finish |
 | ----- | ---------- | ----------- | -------------------- | ------ |
-| AC-01 | Towel bar  | Bathrooms   | TBD                  | Chrome |
-| AC-02 | TP holder  | Bathrooms   | TBD                  | Chrome |
-| AC-03 | Coat hook  | Mudroom     | TBD                  | Black  |
-| AC-04 | Closet rod | Closets     | Standard oval rod    | Chrome |
+| HA01 | Towel bar  | Bathrooms   | TBD                  | Chrome |
+| HA02 | TP holder  | Bathrooms   | TBD                  | Chrome |
+| HA03 | Coat hook  | Mudroom     | TBD                  | Black  |
+| HA04 | Closet rod | Closets     | Standard oval rod    | Chrome |
 
 ## Recommended rules
 

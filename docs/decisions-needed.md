@@ -2,7 +2,6 @@
 
 1. Approve the drawing-title convention. Confirm whether Drawing Type – Level becomes mandatory.
 2. Finalize A0 sheet assignments. Determine whether A02–A05 are fixed schedule locations or flexible allocations.
-3. Finalize tagging standards. Approve primary and secondary tag locations and the distinction between instance, type, and assembly IDs.
 4. Approve CD schedule groupings. Confirm whether the proposed consolidated schedules are appropriate for standard residential projects.
 5. Finalize schedule columns. Establish exact office-standard columns, especially for equipment and specialty products.
 6. Confirm the live selections workbook. Verify tab names, column order, status options, and colors against the actual Google Sheets file.
@@ -22,5 +21,4 @@ Recover and verify the original wording for gridline references, structural-post
 ## Item Identification Follow-Up
 
 - Multi-building door and window numbering is intentionally undefined for now.
-- Select two-letter category designators for general Item Tags. The format is established: two letters followed immediately by one or two numerals, with no separator. Category-specific window, door, wall, lighting, and fan tags remain separate.
 - Specialty door assemblies, skylights, and grouped windows use normal door/window numbering, with each assembly identified as one item.

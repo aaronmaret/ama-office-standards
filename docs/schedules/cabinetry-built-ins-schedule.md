@@ -14,11 +14,11 @@
 - Media units
 - Custom storage
 
-## Proposed identifiers
+## Identifiers
 
-- `C-01`
-- `C-02`
-- `BI-01`
+- `CB01`
+- `CB02`
+- `BI01`
 
 ## Proposed columns
 
@@ -28,9 +28,9 @@
 
 | ID    | Item          | Location     | Construction | Finish    | Remarks        |
 | ----- | ------------- | ------------ | ------------ | --------- | -------------- |
-| C-01  | Base cabinets | Kitchen      | Semi-custom  | Painted   | See elevations |
-| C-02  | Vanity        | Primary Bath | Custom       | White oak | Wall-hung      |
-| BI-01 | Storage bench | Mudroom      | Custom       | Painted   | See elevation  |
+| CB01  | Base cabinets | Kitchen      | Semi-custom  | Painted   | See elevations |
+| CB02  | Vanity        | Primary Bath | Custom       | White oak | Wall-hung      |
+| BI01 | Storage bench | Mudroom      | Custom       | Painted   | See elevation  |
 
 ## Recommended rules
 

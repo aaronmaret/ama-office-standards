@@ -10,10 +10,10 @@
 - Fixed shower screens
 - Specialty interior glazing
 
-## Proposed identifiers
+## Identifiers
 
-- `GL-01`
-- `MR-01`
+- `GL01`
+- `MR01`
 
 The recommendation is to distinguish glass and mirror identifiers even when the products share one schedule.
 
@@ -25,9 +25,9 @@ The recommendation is to distinguish glass and mirror identifiers even when the 
 
 | ID    | Item             | Location     | Type      | Finish / Frame | Remarks       |
 | ----- | ---------------- | ------------ | --------- | -------------- | ------------- |
-| GL-01 | Shower enclosure | Primary Bath | Frameless | Chrome         | Hinged door   |
-| MR-01 | Vanity mirror    | Primary Bath | Frameless | Polished edge  | See elevation |
-| MR-02 | Vanity mirror    | Bath 2       | Framed    | Black          | See elevation |
+| GL01 | Shower enclosure | Primary Bath | Frameless | Chrome         | Hinged door   |
+| MR01 | Vanity mirror    | Primary Bath | Frameless | Polished edge  | See elevation |
+| MR02 | Vanity mirror    | Bath 2       | Framed    | Black          | See elevation |
 
 ## Coordination requirements
 

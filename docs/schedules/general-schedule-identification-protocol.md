@@ -8,15 +8,15 @@
 | -------------- | ----------------- | --------------------------------------------------- |
 | Instance ID    | Door `101`        | One specific door assembly                          |
 | Instance ID    | Window `1.01`     | One specific window assembly                        |
-| Type ID        | Light `L-01`      | A fixture model used at multiple locations          |
-| Type ID        | Appliance `AP-01` | A product selection potentially used more than once |
-| Assembly ID    | Built-in `BI-01`  | A particular custom built-in assembly               |
+| Type ID        | Lighting type mark      | A fixture model used at multiple locations          |
+| Type ID        | Appliance `AP01` | A product selection potentially used more than once |
+| Assembly ID    | Built-in `BI01`  | A particular custom built-in assembly               |
 
 ## Recommended conventions
 
 | Convention           | Rule                                                                |
 | -------------------- | ------------------------------------------------------------------- |
-| Identifiers          | Prefix + sequential number for product schedules, such as `AP-01`   |
+| Identifiers          | Two-letter category code immediately followed by one or two numerals; no separator, such as `AP01`   |
 | Repeated products    | Same product/type ID may appear at multiple locations               |
 | Location             | Room name, room number, or keyed plan reference                     |
 | Dimensions           | Inches, consistent with established office conventions              |
@@ -26,7 +26,7 @@
 | Drawings             | Control locations, quantities, installation geometry, relationships |
 | General notes        | Capture shared installation and verification requirements           |
 
-The prefix-plus-number format is a recommendation for new product schedules, not an approved replacement for the established door and window identifiers.
+General Item Tags use elongated hexagons; construction Assembly Tags use squares. Windows, doors, lights, and fans retain their category-specific tags. See [Drawing Notes and Tags](../drawing-standards/drawing-notes-and-tags.md) for the category codes and identification rules.
 
 ## Related standards
 
