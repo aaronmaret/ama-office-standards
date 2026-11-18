@@ -8,7 +8,7 @@ The 42 protocols below were imported from the conversation export. **Confirmed**
 | --- | --- |
 | [Drawing Set Organization](drawing-standards/drawing-set-organization.md) | Updated November 18, 2026: phase organization, numbering, and typical sheet sizes |
 | [Drawing Title Naming Convention](drawing-standards/drawing-naming.md) | Proposed |
-| [General Drawing Tagging Principles](drawing-standards/tagging.md) | Proposed |
+| [Drawing Notes and Tags](drawing-standards/drawing-notes-and-tags.md) | Updated November 18, 2026: note placement, numeric sheet keynotes, and item tags |
 | [Window Tagging](drawing-standards/window-tagging.md) | Proposed tagging location; Confirmed numbering format |
 | [Door Tagging](drawing-standards/door-tagging.md) | Proposed tagging location; Confirmed numbering format |
 | [Cabinetry and Built-in Tagging](drawing-standards/cabinetry-and-built-in-tagging.md) | Proposed |
@@ -16,7 +16,6 @@ The 42 protocols below were imported from the conversation export. **Confirmed**
 | [Lighting and Fan Tagging](drawing-standards/lighting-and-fan-tagging.md) | Proposed |
 | [Receptacle Identification](drawing-standards/receptacle-identification.md) | Proposed |
 | [Drawing Callouts and Reference Symbols](drawing-standards/drawing-callouts-and-reference-symbols.md) | Unresolved |
-| [General Notes and Sheet Notes](drawing-standards/general-notes-and-sheet-notes.md) | Partially Confirmed; detailed language unavailable |
 | [General Scheduling Philosophy](schedules/general-scheduling-philosophy.md) | Proposed |
 | [Recommended Construction Document Schedules](schedules/recommended-construction-document-schedules.md) | Proposed |
 | [General Schedule Identification Protocol](schedules/general-schedule-identification-protocol.md) | Proposed |

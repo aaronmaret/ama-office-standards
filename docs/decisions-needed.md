@@ -14,3 +14,7 @@
 
 
 See the [protocol inventory](protocol-inventory.md) for status and the [source notes](source-notes.md) for limitations.
+
+## Drawing Note Wording
+
+Recover and verify the original wording for gridline references, structural-post and shear-wall notes, and site verification before excavation before adding those notes to drawing templates.
