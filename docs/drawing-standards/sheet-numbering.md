@@ -24,8 +24,6 @@ The previous protocol assigned:
 - A6 — Schedules
 - A9 — Construction Details
 
-These assignments are superseded and must not be carried into the new office standards.
-
 The previous A5 designation, Interior Elevations + 3D, has been expanded to include enlarged plans.
 
 ## Related standards
