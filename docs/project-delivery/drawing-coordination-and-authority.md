@@ -31,4 +31,4 @@ Cabinetry: Coordinate plans, elevations, schedule entries, and shop drawings.
 
 ## Related standards
 
-[Drawing Set Organization by Phase](../drawing-standards/sheet-number-format.md) · [Construction Documentation Quality Checks](construction-documentation-quality-checks.md) · [SD/DD to CD Documentation Handoff](../schedules/sd-dd-to-cd-documentation-handoff.md)
+[Drawing Set Organization](../drawing-standards/drawing-set-organization.md) · [Construction Documentation Quality Checks](construction-documentation-quality-checks.md) · [SD/DD to CD Documentation Handoff](../schedules/sd-dd-to-cd-documentation-handoff.md)

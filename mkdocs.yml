@@ -39,8 +39,7 @@ extra_css:
 nav:
 - Overview: index.md
 - Drawing Standards:
-  - Architectural Sheet Series: drawing-standards/sheet-numbering.md
-  - Drawing Set Organization by Phase: drawing-standards/sheet-number-format.md
+  - Drawing Set Organization: drawing-standards/drawing-set-organization.md
   - Drawing Title Naming Convention: drawing-standards/drawing-naming.md
   - General Drawing Tagging Principles: drawing-standards/tagging.md
   - Window Tagging: drawing-standards/window-tagging.md

@@ -6,8 +6,7 @@ The 42 protocols below were imported from the conversation export. **Confirmed**
 
 | Protocol | Source Status |
 | --- | --- |
-| [Architectural Sheet Series](drawing-standards/sheet-numbering.md) | Confirmed |
-| [Drawing Set Organization by Phase](drawing-standards/sheet-number-format.md) | Updated November 18, 2026: phase organization, numbering, and typical sheet sizes |
+| [Drawing Set Organization](drawing-standards/drawing-set-organization.md) | Updated November 18, 2026: phase organization, numbering, and typical sheet sizes |
 | [Drawing Title Naming Convention](drawing-standards/drawing-naming.md) | Proposed |
 | [General Drawing Tagging Principles](drawing-standards/tagging.md) | Proposed |
 | [Window Tagging](drawing-standards/window-tagging.md) | Proposed tagging location; Confirmed numbering format |

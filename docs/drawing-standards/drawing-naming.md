@@ -64,4 +64,4 @@ Avoid alternating between First Floor, Ground Floor, and Main Level for the same
 
 ## Related standards
 
-[Architectural Sheet Series](sheet-numbering.md) · [General Drawing Tagging Principles](tagging.md) · [General Schedule Identification Protocol](../schedules/general-schedule-identification-protocol.md)
+[Drawing Set Organization](drawing-set-organization.md) · [General Drawing Tagging Principles](tagging.md) · [General Schedule Identification Protocol](../schedules/general-schedule-identification-protocol.md)

@@ -34,4 +34,4 @@ Tag these on plans and elevations where needed.
 
 ## Related standards
 
-[Architectural Sheet Series](sheet-numbering.md) · [Drawing Title Naming Convention](drawing-naming.md) · [General Drawing Tagging Principles](tagging.md) · [General Schedule Identification Protocol](../schedules/general-schedule-identification-protocol.md)
+[Drawing Set Organization](drawing-set-organization.md) · [Drawing Title Naming Convention](drawing-naming.md) · [General Drawing Tagging Principles](tagging.md) · [General Schedule Identification Protocol](../schedules/general-schedule-identification-protocol.md)
