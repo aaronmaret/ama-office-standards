@@ -66,18 +66,19 @@ Standard receptacles and similar devices normally use symbols rather than indivi
 
 ## Assembly Tags
 
-Use a **square tag** to reference a defined construction assembly. This expands the former Wall Tag to cover walls, floors, roofs, ceilings, foundations, and specialty construction assemblies.
+Use a **square tag** to reference a defined construction assembly. This expands the former Wall Tag to cover walls, floors, roofs, ceilings, and specialty construction assemblies.
 
-Use two letters followed immediately by one or two numerals, with no separator: `WA1`, `FA2`, or `RA01`.
+Use one letter followed immediately by one or two numerals, with no separator: `W1`, `F2`, or `R01`.
 
 | Code | Assembly Category | References |
 | --- | --- | --- |
-| **WA** | Wall Assembly | Wall or partition build-up |
-| **FA** | Floor Assembly | Floor build-up |
-| **RA** | Roof Assembly | Roof build-up |
-| **CA** | Ceiling Assembly | Defined ceiling build-up; a finish alone uses an FN reference |
-| **FD** | Foundation Assembly | Foundation construction assembly or build-up |
-| **SA** | Specialty Assembly | Specialty construction definitions, such as stair or railing assemblies |
+| **W** | Wall Assembly | Wall or partition build-up |
+| **F** | Floor Assembly | Floor build-up |
+| **R** | Roof Assembly | Roof build-up |
+| **C** | Ceiling Assembly | Defined ceiling build-up; a finish alone uses an FN reference |
+| **S** | Specialty Assembly | Specialty construction definitions, such as stair or railing assemblies |
+
+Foundation conditions are documented through specific construction details rather than a foundation assembly tag.
 
 ### Choosing Item or Assembly Tags
 
@@ -85,7 +86,6 @@ Choose the shape by **what the tag references**, not by the number of components
 
 - **Square:** references a construction assembly definition, build-up, or assembly detail.
 - **Elongated hexagon:** references a scheduled product, item, or fabricated unit. A cabinet group or built-in remains an item even though it contains many components.
-- **SE versus FD:** use SE for an individually identified structural element; use FD for the foundation assembly definition.
 - A stair, railing, or glazing unit uses the square tag when referencing its construction assembly, or the Item Tag when referencing a scheduled fabricated unit.
 
 Room labels, grid references, and drawing callouts have separate identification functions.
@@ -96,7 +96,7 @@ Room labels, grid references, and drawing callouts have separate identification 
 | --- | --- | --- | --- |
 | **Instance** | One particular installed element or opening. Each instance has its own mark, even when several share the same product or type. | Doors, windows, and equipment or structural elements requiring individual tracking | Door `101`; window `1.01` |
 | **Type** | A repeatable product, configuration, material, or construction definition. All matching occurrences may share the mark. | Door/window types; lighting and fan types; appliances; plumbing products; hardware groups; finishes; wall/floor/roof types; repeatable furniture or equipment selections | A light type used at several locations; door type `A` assigned to several door instances |
-| **Assembly** | A coordinated group documented as one unit. The identifier references the complete group rather than each component. | Construction build-ups and specialty assemblies; fabricated units such as built-ins | Square `WA1` references a wall build-up; elongated-hexagon `BI01` identifies a complete storage bench |
+| **Assembly** | A coordinated group documented as one unit. The identifier references the complete group rather than each component. | Construction build-ups and specialty assemblies; fabricated units such as built-ins | Square `W1` references a wall build-up; elongated-hexagon `BI01` identifies a complete storage bench |
 
 **Instance and type identifiers can work together.** Doors `101` and `102` are separate instances but may both be door type `A` and use the same numeric hardware group. A repeated light type may need only its type tag unless individual tracking is required.
 

@@ -29,13 +29,13 @@ Examples: `AA/A4.01` refers to Building Section AA on A4.01; `5/A6.01` refers to
 | Column Grid ID | Circle at the end of a gridline | Grid reference |
 | Datum / Elevation Point | Quartered circular target with crossing axes | Reference point for an elevation or datum |
 | Room Name / Room ID | Room name above a rectangular number box | Room name and unique room identifier |
-| Assembly Tag | Square identifier box with a leader where needed | Wall, floor, roof, ceiling, foundation, or specialty construction assembly: `WA1`, `FA2`, `RA01`, etc. |
+| Assembly Tag | Square identifier box with a leader where needed | Wall, floor, roof, ceiling, or specialty construction assembly: `W1`, `F2`, `R01`, etc. |
 | Door Tag | Circle | Door instance |
 | Window Tag | Hexagon | Window instance |
 | Keynote Tag | Rounded capsule, with a leader where needed | Numeral in the same sheet's keynote list |
 | Item Tag | Elongated hexagon | General item identifier: two-letter category designator immediately followed by one or two numerals; no separator |
 
-Symbol shape identifies the kind of reference. The text inside carries the applicable identifier. The legend's `00`, `000`, `A0.00`, and `E.00` labels are graphic examples, not required identifier formats. Use the numbering and identifiers established for the project; keynotes use numerals only. General Item Tags use two-letter category codes followed immediately by one or two numerals, such as `AP1` or `AP01`, replacing the legend's sample `E.00` format. Square Assembly Tags use the same compact format, such as `WA1` or `FD01`. Windows, doors, lights, and fans retain their category-specific tags.
+Symbol shape identifies the kind of reference. The text inside carries the applicable identifier. The legend's `00`, `000`, `A0.00`, and `E.00` labels are graphic examples, not required identifier formats. Use the numbering and identifiers established for the project; keynotes use numerals only. General Item Tags use two-letter category codes followed immediately by one or two numerals, such as `AP1` or `AP01`, replacing the legend's sample `E.00` format. Square Assembly Tags use a single category letter followed immediately by one or two numerals, such as `W1` or `R01`. Foundation conditions use detail references rather than a foundation assembly tag. Windows, doors, lights, and fans retain their category-specific tags.
 
 ## Lines and Work Conditions
 
