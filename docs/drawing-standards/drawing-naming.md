@@ -30,14 +30,14 @@ Sheet titles and individual drawing titles may differ.
 
 Example:
 
-Sheet A20 — FLOOR PLANS
+Sheet A2.1 — FLOOR PLANS
 
 - Drawing 1: FLOOR PLAN – MAIN LEVEL
 - Drawing 2: FLOOR PLAN – UPPER LEVEL
 
 Alternatively:
 
-Sheet A21 — MAIN LEVEL PLANS
+Sheet A2.2 — MAIN LEVEL PLANS
 
 - Drawing 1: FLOOR PLAN – MAIN LEVEL
 - Drawing 2: MEP PLAN – MAIN LEVEL

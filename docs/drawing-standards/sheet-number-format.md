@@ -1,51 +1,55 @@
-# Sheet Number Format
+# Drawing Set Organization by Phase
 
 **Last revised:** November 18, 2026
 
-The established DD/CD approach uses architectural sheet identifiers consisting of the letter `A` followed by two digits.
+Office protocol distinguishes between SD and DD/CD documentation.
 
-The first digit identifies the sheet series.
+## SD
 
-Examples previously established:
+Use a simplified architectural drawing set appropriate to the design phase.
 
-| Sheet | Earlier example title     | Current treatment                       |
-| ----- | ------------------------- | --------------------------------------- |
-| A00   | Title Sheet               | Compatible with current A0 series       |
-| A01   | General Information       | Compatible with current A0 series       |
-| A10   | Site Plan                 | Compatible with current A1 series       |
-| A20   | Main Level Floor Plan     | Compatible with current A2 series       |
-| A21   | Upper Level Floor Plan    | Compatible with current A2 series       |
-| A30   | Exterior Elevations       | Compatible with current A3 series       |
-| A40   | Building Sections         | Compatible with current A4 series       |
-| A50   | Interior Elevations       | Compatible with current A5 series       |
-| A60   | Door and Window Schedules | Superseded — schedules now belong in A0 |
-| A70   | Architectural Diagrams    | Compatible with current A7 series       |
-| A90   | Architectural Details     | Superseded — details now belong in A6   |
+Schematic Design phase drawings may use abbreviated sheet numbering such as:
 
-## Proposed A0 sheet assignments
+- A1
+- A2
+- A3
 
-Following the decision to relocate schedules, the following arrangement was recommended:
+Typical sheet size: **12 × 18 inches**.
 
-| Sheet | Proposed title                     |
-| ----- | ---------------------------------- |
-| A00   | Title Sheet                        |
-| A01   | General Information                |
-| A02   | Door + Window Schedules            |
-| A03   | Fixture + Equipment Schedules      |
-| A04   | Finish + Accessory Schedules       |
-| A05   | Additional Schedules (as required) |
+## DD/CD
 
-These are illustrative assignments, not individually confirmed requirements.
+Use the expanded sheet number format using the series numbers as follows.
 
-Smaller projects may combine multiple schedules on one sheet.
+**Format:** `A(series digit).X` or `A(series digit).XX`
 
-## Unresolved
+- **A** identifies architectural drawings.
+- The **series digit** identifies the drawing category, using the [Architectural Sheet Series](sheet-numbering.md).
+- A **period** separates the series digit from the sheet sequence.
+- The **sheet sequence** uses one or two numerals, depending on the project's size, complexity, and requirements.
 
-- Whether specific sheet numbers should be permanently reserved for particular schedules.
-- How the A0 series should expand when schedules require more than the available single-digit positions.
-- Whether DD and CD sheet assignments must remain identical.
-- Whether SD sets should use abbreviated numbering or the full two-digit system.
+Examples: `A2.1` or `A2.01` for a sheet in the A2 Plans series.
 
-## Related standards
+Typical sheet size: **24 × 36 inches**.
 
-[Architectural Sheet Series](sheet-numbering.md) · [Drawing Title Naming Convention](drawing-naming.md) · [General Drawing Tagging Principles](tagging.md) · [General Schedule Identification Protocol](../schedules/general-schedule-identification-protocol.md)
+## Numbering Examples
+
+These examples illustrate the format; individual sheet assignments may vary by project.
+
+| Series | One-Numeral Sequence | Two-Numeral Sequence | Example Content |
+| --- | --- | --- | --- |
+| A0 | A0.1 | A0.01 | General information |
+| A0 | A0.2 | A0.02 | Door and window schedules |
+| A0 | A0.3 | A0.03 | Fixture and equipment schedules |
+| A1 | A1.1 | A1.01 | Site plan |
+| A2 | A2.1 | A2.01 | Main level floor plan |
+| A3 | A3.1 | A3.01 | Exterior elevations |
+| A4 | A4.1 | A4.01 | Building sections |
+| A5 | A5.1 | A5.01 | Enlarged plans and interior elevations |
+| A6 | A6.1 | A6.01 | Construction details |
+| A7 | A7.1 | A7.01 | Diagrams |
+
+Smaller projects may combine multiple schedules on one sheet. Schedules belong in A0; A8 and A9 remain reserved.
+
+## Related Standards
+
+[Architectural Sheet Series](sheet-numbering.md) · [Drawing Title Naming Convention](drawing-naming.md) · [Drawing Coordination and Authority](../project-delivery/drawing-coordination-and-authority.md) · [Construction Documentation Quality Checks](../project-delivery/construction-documentation-quality-checks.md)

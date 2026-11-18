@@ -7,7 +7,7 @@ The 42 protocols below were imported from the conversation export. **Confirmed**
 | Protocol | Source Status |
 | --- | --- |
 | [Architectural Sheet Series](drawing-standards/sheet-numbering.md) | Confirmed |
-| [Sheet Number Format](drawing-standards/sheet-number-format.md) | Confirmed for the established two-digit format; Proposed for individual assignments |
+| [Drawing Set Organization by Phase](drawing-standards/sheet-number-format.md) | Updated November 18, 2026: phase organization, numbering, and typical sheet sizes |
 | [Drawing Title Naming Convention](drawing-standards/drawing-naming.md) | Proposed |
 | [General Drawing Tagging Principles](drawing-standards/tagging.md) | Proposed |
 | [Window Tagging](drawing-standards/window-tagging.md) | Proposed tagging location; Confirmed numbering format |
@@ -44,7 +44,6 @@ The 42 protocols below were imported from the conversation export. **Confirmed**
 | [LayOut Numeric Input](modeling/layout-numeric-input.md) | Confirmed troubleshooting result |
 | [LayOut Annotation Maintenance](modeling/layout-annotation-maintenance.md) | Proposed |
 | [Viewport Scaling and Stacking](modeling/viewport-scaling-and-stacking.md) | Partially Established |
-| [Drawing Set Organization by Phase](project-delivery/drawing-set-organization-by-phase.md) | Partially Confirmed |
 | [Drawing Coordination and Authority](project-delivery/drawing-coordination-and-authority.md) | Proposed |
 | [Construction Documentation Quality Checks](project-delivery/construction-documentation-quality-checks.md) | Proposed |
 | [Field Reports and Construction Observations](project-delivery/field-reports-and-construction-observations.md) | Unresolved |

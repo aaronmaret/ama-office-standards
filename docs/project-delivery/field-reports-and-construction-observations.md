@@ -10,4 +10,4 @@ The topic should be included in a future private or public project-delivery stan
 
 ## Related standards
 
-[Drawing Set Organization by Phase](drawing-set-organization-by-phase.md) · [Drawing Coordination and Authority](drawing-coordination-and-authority.md) · [Construction Documentation Quality Checks](construction-documentation-quality-checks.md) · [SD/DD to CD Documentation Handoff](../schedules/sd-dd-to-cd-documentation-handoff.md)
+[Drawing Set Organization by Phase](../drawing-standards/sheet-number-format.md) · [Drawing Coordination and Authority](drawing-coordination-and-authority.md) · [Construction Documentation Quality Checks](construction-documentation-quality-checks.md) · [SD/DD to CD Documentation Handoff](../schedules/sd-dd-to-cd-documentation-handoff.md)

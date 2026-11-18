@@ -37,4 +37,4 @@ This checklist is a proposed synthesis of the recommendations, not a separately 
 
 ## Related standards
 
-[Drawing Set Organization by Phase](drawing-set-organization-by-phase.md) · [Drawing Coordination and Authority](drawing-coordination-and-authority.md) · [SD/DD to CD Documentation Handoff](../schedules/sd-dd-to-cd-documentation-handoff.md)
+[Drawing Set Organization by Phase](../drawing-standards/sheet-number-format.md) · [Drawing Coordination and Authority](drawing-coordination-and-authority.md) · [SD/DD to CD Documentation Handoff](../schedules/sd-dd-to-cd-documentation-handoff.md)

@@ -25,7 +25,7 @@ These gaps have not been filled with invented requirements. See [decisions still
 
 The import replaces initial illustrative content with the recovered protocols:
 
-- DD/CD sheet numbers use `A` plus two digits, such as `A00` and `A20`. The starter examples `A001`, `A201`, and `A601` are replaced.
+- DD/CD sheet numbers use `A`, the series digit, a period, and a one- or two-numeral sequence: `A2.1` or `A2.01`. This November 18, 2026 correction replaces earlier descriptions of the format.
 - Drawing titles are proposed as **Drawing Type – Level or Area**, rather than the starter's level-first examples.
 - Windows use instance identifiers such as `1.01`, with letters for window types. Doors use identifiers such as `101`, with letters for door types and numeric hardware groups.
 - Schedules remain in A0, construction details in A6, diagrams in A7, and A8/A9 reserved. Historical assignments of schedules to A6 and details to A9 are superseded.

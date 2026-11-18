@@ -40,7 +40,7 @@ nav:
 - Overview: index.md
 - Drawing Standards:
   - Architectural Sheet Series: drawing-standards/sheet-numbering.md
-  - Sheet Number Format: drawing-standards/sheet-number-format.md
+  - Drawing Set Organization by Phase: drawing-standards/sheet-number-format.md
   - Drawing Title Naming Convention: drawing-standards/drawing-naming.md
   - General Drawing Tagging Principles: drawing-standards/tagging.md
   - Window Tagging: drawing-standards/window-tagging.md
@@ -80,7 +80,6 @@ nav:
   - LayOut Annotation Maintenance: modeling/layout-annotation-maintenance.md
   - Viewport Scaling and Stacking: modeling/viewport-scaling-and-stacking.md
 - Project Delivery:
-  - Drawing Set Organization by Phase: project-delivery/drawing-set-organization-by-phase.md
   - Drawing Coordination and Authority: project-delivery/drawing-coordination-and-authority.md
   - Construction Documentation Quality Checks: project-delivery/construction-documentation-quality-checks.md
   - Field Reports and Construction Observations: project-delivery/field-reports-and-construction-observations.md
