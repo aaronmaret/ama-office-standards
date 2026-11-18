@@ -88,9 +88,14 @@ Room labels, grid references, and drawing callouts have separate identification 
 - Use consistent identifiers between drawings and schedules.
 - Use secondary tags to resolve ambiguity, and avoid unnecessary duplicate annotation.
 
-## General Note Placement
+## Note and Schedule Block Placement
 
-Place project-wide gridline reference conventions in General Notes in A0, rather than only in floor-plan notes.
+Organize note and schedule blocks within the sheet's modular grid. Align block edges and headings with grid boundaries to create consistent, readable bands of information.
+
+- Use single-module widths for note and keynote blocks; span adjacent modules for wider schedules.
+- Align neighboring block headings along a common horizontal line.
+- Place schedule-specific notes directly below the schedule they explain.
+- Group related blocks and keep their placement consistent across sheets, adjusting the arrangement to suit the drawings and available space.
 
 ## Related Standards
 
