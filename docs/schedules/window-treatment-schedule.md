@@ -1,6 +1,5 @@
 # Window Treatment Schedule
 
-**Protocol:** SS-12  
 **Last revised:** November 17, 2026
 
 !!! note "Source and status"

@@ -34,3 +34,11 @@ Migrated from MkDocs Material to Zensical on November 18, 2026. `mkdocs.yml` rem
 The pre-migration deployment is commit `d3349f5`. To roll back, revert the Zensical migration commit and push the resulting revert commit to `main`. This restores the earlier configuration, requirements, and deployment command without rewriting repository history.
 
 Migration validation compared article text on all 48 generated HTML pages, including the 42 protocol pages. Navigation, search results, logo, light/dark themes, and representative tables were checked before publication.
+
+## Editorial approach
+
+- Present essential, practical information first. Keep prose crisp and concise.
+- Include context only when it helps someone apply a standard or understand its purpose.
+- Do not assign protocol IDs. Product, drawing, and schedule identifiers retain their functional meaning.
+- Use Title Case for navigation titles.
+- Verify technical claims and current software behavior before presenting them as established requirements. Preserve unresolved decisions rather than inventing rules.

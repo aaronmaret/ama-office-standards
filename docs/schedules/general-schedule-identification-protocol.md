@@ -1,6 +1,5 @@
 # General Schedule Identification Protocol
 
-**Protocol:** SS-03  
 **Last revised:** November 17, 2026
 
 !!! note "Source and status"

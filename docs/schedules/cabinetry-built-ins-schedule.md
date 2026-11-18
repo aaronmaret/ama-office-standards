@@ -1,6 +1,5 @@
 # Cabinetry + Built-ins Schedule
 
-**Protocol:** SS-09  
 **Last revised:** November 17, 2026
 
 !!! note "Source and status"

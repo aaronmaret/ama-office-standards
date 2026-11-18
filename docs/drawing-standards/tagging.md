@@ -1,6 +1,5 @@
 # General Drawing Tagging Principles
 
-**Protocol:** DS-04  
 **Last revised:** November 17, 2026
 
 !!! note "Source and status"

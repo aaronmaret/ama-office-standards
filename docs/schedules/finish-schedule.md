@@ -1,6 +1,5 @@
 # Finish Schedule
 
-**Protocol:** SS-11  
 **Last revised:** November 17, 2026
 
 !!! note "Source and status"

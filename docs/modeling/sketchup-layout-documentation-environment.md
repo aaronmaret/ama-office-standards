@@ -1,6 +1,5 @@
 # SketchUp / LayOut Documentation Environment
 
-**Protocol:** MD-01  
 **Last revised:** November 17, 2026
 
 !!! note "Source and status"

@@ -1,6 +1,5 @@
 # Selections Book Tab Schemas
 
-**Protocol:** SS-16  
 **Last revised:** November 17, 2026
 
 !!! note "Source and status"

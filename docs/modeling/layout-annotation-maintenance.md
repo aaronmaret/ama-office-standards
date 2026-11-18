@@ -1,6 +1,5 @@
 # LayOut Annotation Maintenance
 
-**Protocol:** MD-06  
 **Last revised:** November 17, 2026
 
 !!! note "Source and status"

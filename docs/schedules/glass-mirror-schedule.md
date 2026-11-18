@@ -1,6 +1,5 @@
 # Glass + Mirror Schedule
 
-**Protocol:** SS-08  
 **Last revised:** November 17, 2026
 
 !!! note "Source and status"

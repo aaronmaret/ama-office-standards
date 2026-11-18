@@ -1,6 +1,5 @@
 # Window Tagging
 
-**Protocol:** DS-05  
 **Last revised:** November 17, 2026
 
 !!! note "Source and status"

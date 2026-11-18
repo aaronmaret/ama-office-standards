@@ -1,6 +1,5 @@
 # SD/DD Selections Book
 
-**Protocol:** SS-15  
 **Last revised:** November 17, 2026
 
 !!! note "Source and status"

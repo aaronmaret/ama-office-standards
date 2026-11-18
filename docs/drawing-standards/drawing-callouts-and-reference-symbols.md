@@ -1,6 +1,5 @@
 # Drawing Callouts and Reference Symbols
 
-**Protocol:** DS-11  
 **Last revised:** November 17, 2026
 
 !!! note "Source and status"

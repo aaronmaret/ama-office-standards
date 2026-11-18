@@ -1,6 +1,5 @@
 # Drawing Title Naming Convention
 
-**Protocol:** DS-03  
 **Last revised:** November 17, 2026
 
 !!! note "Source and status"

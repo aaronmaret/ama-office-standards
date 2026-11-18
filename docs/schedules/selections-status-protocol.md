@@ -1,6 +1,5 @@
 # Selections Status Protocol
 
-**Protocol:** SS-17  
 **Last revised:** November 17, 2026
 
 !!! note "Source and status"

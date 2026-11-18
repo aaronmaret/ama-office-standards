@@ -1,6 +1,5 @@
 # SD/DD to CD Documentation Handoff
 
-**Protocol:** SS-19  
 **Last revised:** November 17, 2026
 
 !!! note "Source and status"

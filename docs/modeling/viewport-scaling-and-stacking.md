@@ -1,6 +1,5 @@
 # Viewport Scaling and Stacking
 
-**Protocol:** MD-07  
 **Last revised:** November 17, 2026
 
 !!! note "Source and status"

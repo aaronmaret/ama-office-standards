@@ -1,6 +1,5 @@
 # Door Tagging
 
-**Protocol:** DS-06  
 **Last revised:** November 17, 2026
 
 !!! note "Source and status"

@@ -1,6 +1,5 @@
 # Appliance and Mechanical Equipment Tagging
 
-**Protocol:** DS-08  
 **Last revised:** November 17, 2026
 
 !!! note "Source and status"

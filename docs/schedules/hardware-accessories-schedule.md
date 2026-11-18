@@ -1,6 +1,5 @@
 # Hardware + Accessories Schedule
 
-**Protocol:** SS-07  
 **Last revised:** November 17, 2026
 
 !!! note "Source and status"

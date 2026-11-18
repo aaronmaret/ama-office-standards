@@ -1,6 +1,5 @@
 # Sheet Number Format
 
-**Protocol:** DS-02  
 **Last revised:** November 17, 2026
 
 !!! note "Source and status"

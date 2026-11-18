@@ -1,6 +1,5 @@
 # Recommended Construction Document Schedules
 
-**Protocol:** SS-02  
 **Last revised:** November 17, 2026
 
 !!! note "Source and status"

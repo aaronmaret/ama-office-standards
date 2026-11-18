@@ -1,6 +1,5 @@
 # Plumbing Fixture Schedule
 
-**Protocol:** SS-05  
 **Last revised:** November 17, 2026
 
 !!! note "Source and status"

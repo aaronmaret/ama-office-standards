@@ -1,6 +1,5 @@
 # Appliance Schedule
 
-**Protocol:** SS-04  
 **Last revised:** November 17, 2026
 
 !!! note "Source and status"
