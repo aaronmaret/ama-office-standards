@@ -20,11 +20,15 @@ The drawing type precedes the level, location, area, or other applicable designa
 | Enlarged Plan | Enlarged Plan – Kitchen<br>Enlarged Plan – Primary Bathroom |
 | Exterior Elevation | Exterior Elevation – North<br>Exterior Elevation – South |
 | Building Section | Building Section – AA<br>Building Section – BB<br>Building Section – CC |
-| Interior Elevation | Interior Elevation – Kitchen Cabinetry @ Fridge<br>Interior Elevation – Pantry Shelving |
+| Interior Elevation | Interior Elevation – Kitchen Cabinetry at Refrigerator<br>Interior Elevation – Pantry Shelving |
 | Plan Detail | Plan Detail – Post Attachment at C5 |
-| Section Detail | Section Detail – Sill @ Window Type A |
+| Section Detail | Section Detail – Sill at Window Type A |
 
 The alternative convention, Main Level Floor Plan, was considered but not recommended.
+
+## “At” Versus “@”
+
+Use “at” to identify a location or condition in drawing titles. Reserve “@” for technical annotations where it has an established meaning, such as spacing.
 
 ## Proposed office-standard language
 
