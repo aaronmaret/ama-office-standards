@@ -1,11 +1,6 @@
 # Viewport Scaling and Stacking
 
-**Last revised:** November 17, 2026
-
-!!! note "Source and status"
-    Imported from the November 17, 2026 conversation export. Its status labels are retained; some earlier decisions were recovered from summaries rather than complete original discussions. Proposed and unresolved material is not adopted office policy.
-
-**Status:** Partially Established
+**Last revised:** November 18, 2026
 
 Stacked viewports are part of the established documentation workflow.
 

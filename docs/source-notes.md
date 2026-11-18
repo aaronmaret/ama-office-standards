@@ -6,7 +6,7 @@
 
 The November 17, 2026 **AMA Office Standards — Conversation Export** supplied the content for 42 drawing, scheduling, modeling, and project-delivery protocols. The export combines directly available discussion with retained summaries of earlier discussions. It is not a complete verbatim record.
 
-Status labels describe the source's reported level of agreement:
+The protocol inventory records the source's reported level of agreement:
 
 - **Confirmed:** Reported as an explicit decision or established office practice.
 - **Proposed:** A recommendation awaiting adoption.
@@ -38,4 +38,4 @@ This edition includes general protocols and illustrative product examples. Inter
 
 The source export's website proposal is now implemented: Zensical (classic theme), Markdown, GitHub Actions, GitHub Pages, the custom domain, and HTTPS. Instructions for changes are on [Maintaining this manual](maintaining.md).
 
-The site migrated from MkDocs Material to Zensical on November 18, 2026. The Markdown content, page addresses, and source-status labels are preserved.
+The site migrated from MkDocs Material to Zensical on November 18, 2026. The Markdown content, page addresses, and source information are preserved.

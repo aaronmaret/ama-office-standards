@@ -1,11 +1,6 @@
 # Selections Book Tab Colors
 
-**Last revised:** November 17, 2026
-
-!!! note "Source and status"
-    Imported from the November 17, 2026 conversation export. Its status labels are retained; some earlier decisions were recovered from summaries rather than complete original discussions. Proposed and unresolved material is not adopted office policy.
-
-**Status:** Proposed; palette supplied but not explicitly approved
+**Last revised:** November 18, 2026
 
 The following HEX colors were provided for the 19 tabs.
 

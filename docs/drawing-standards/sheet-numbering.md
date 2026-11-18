@@ -1,18 +1,12 @@
 # Architectural Sheet Series
 
-**Last revised:** November 17, 2026
+**Last revised:** November 18, 2026
 
-!!! note "Source and status"
-    Imported from the November 17, 2026 conversation export. Its status labels are retained; some earlier decisions were recovered from summaries rather than complete original discussions. Proposed and unresolved material is not adopted office policy.
-
-**Status:** Confirmed\
-Latest decision: November 17, 2026
-
-AMA organizes architectural drawing sheets into the following series.
+Architectural drawing sheets are organized into the following series.
 
 | Series | Category                               | Typical contents                                                                                                    |
 | ------ | -------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| A0     | General Information and Schedules      | Title sheet, drawing index, code information, general notes, door/window schedules, fixture and equipment schedules |
+| A0     | General Information and Schedules      | Title sheet, drawing index, code information, general notes, door/window schedules, fixture and equipment schedules, project sheet specifications |
 | A1     | Site                                   | Site plans, grading, drainage, site-related drawings                                                                |
 | A2     | Plans                                  | Floor plans, roof plans, MEP plans, reflected ceiling plans                                                         |
 | A3     | Exterior Elevations                    | Exterior elevations, exterior architectural views and 3D representations                                            |
@@ -22,14 +16,6 @@ AMA organizes architectural drawing sheets into the following series.
 | A7     | Diagrams                               | Architectural diagrams, explanatory graphics, specialty coordination diagrams                                       |
 | A8     | Reserved                               | Future expansion                                                                                                    |
 | A9     | Reserved                               | Future expansion                                                                                                    |
-
-## Confirmed decisions
-
-1. Schedules belong in the A0 series, at the front of the drawing set.
-2. Enlarged floor plans belong in A5, alongside interior elevations.
-3. Construction details belong in A6.
-4. A7 remains assigned to diagrams.
-5. A8 and A9 are reserved.
 
 ## Superseded standards
 

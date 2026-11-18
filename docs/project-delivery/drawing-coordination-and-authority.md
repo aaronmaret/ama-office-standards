@@ -1,14 +1,9 @@
 # Drawing Coordination and Authority
 
-**Last revised:** November 17, 2026
-
-!!! note "Source and status"
-    Imported from the November 17, 2026 conversation export. Its status labels are retained; some earlier decisions were recovered from summaries rather than complete original discussions. Proposed and unresolved material is not adopted office policy.
+**Last revised:** November 18, 2026
 
 !!! note "Coordination guidance"
     This proposed allocation of information does not establish contractual document precedence or change consultant responsibilities.
-
-**Status:** Proposed
 
 The recommended coordination hierarchy is:
 

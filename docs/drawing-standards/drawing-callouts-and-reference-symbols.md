@@ -1,11 +1,6 @@
 # Drawing Callouts and Reference Symbols
 
-**Last revised:** November 17, 2026
-
-!!! note "Source and status"
-    Imported from the November 17, 2026 conversation export. Its status labels are retained; some earlier decisions were recovered from summaries rather than complete original discussions. Proposed and unresolved material is not adopted office policy.
-
-**Status:** Unresolved
+**Last revised:** November 18, 2026
 
 No complete office-wide callout protocol was established in the accessible conversation.
 

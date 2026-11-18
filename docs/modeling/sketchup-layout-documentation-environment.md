@@ -1,11 +1,6 @@
 # SketchUp / LayOut Documentation Environment
 
-**Last revised:** November 17, 2026
-
-!!! note "Source and status"
-    Imported from the November 17, 2026 conversation export. Its status labels are retained; some earlier decisions were recovered from summaries rather than complete original discussions. Proposed and unresolved material is not adopted office policy.
-
-**Status:** Confirmed as an established workflow
+**Last revised:** November 18, 2026
 
 AMA uses SketchUp and LayOut for architectural drawing production.
 

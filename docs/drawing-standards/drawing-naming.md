@@ -1,12 +1,6 @@
 # Drawing Title Naming Convention
 
-**Last revised:** November 17, 2026
-
-!!! note "Source and status"
-    Imported from the November 17, 2026 conversation export. Its status labels are retained; some earlier decisions were recovered from summaries rather than complete original discussions. Proposed and unresolved material is not adopted office policy.
-
-**Status:** Proposed\
-Recommendation issued: November 17, 2026
+**Last revised:** November 18, 2026
 
 The recommended convention is:
 
@@ -67,8 +61,6 @@ Use consistent terminology throughout a drawing set, such as:
 - Lower Level
 
 Avoid alternating between First Floor, Ground Floor, and Main Level for the same building level.
-
-Status: Proposed.
 
 ## Related standards
 

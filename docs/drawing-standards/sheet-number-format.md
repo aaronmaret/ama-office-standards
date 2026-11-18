@@ -1,11 +1,6 @@
 # Sheet Number Format
 
-**Last revised:** November 17, 2026
-
-!!! note "Source and status"
-    Imported from the November 17, 2026 conversation export. Its status labels are retained; some earlier decisions were recovered from summaries rather than complete original discussions. Proposed and unresolved material is not adopted office policy.
-
-**Status:** Confirmed for the established two-digit format; Proposed for individual assignments
+**Last revised:** November 18, 2026
 
 The established DD/CD approach uses architectural sheet identifiers consisting of the letter `A` followed by two digits.
 

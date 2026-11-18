@@ -1,11 +1,6 @@
 # General Notes and Sheet Notes
 
-**Last revised:** November 17, 2026
-
-!!! note "Source and status"
-    Imported from the November 17, 2026 conversation export. Its status labels are retained; some earlier decisions were recovered from summaries rather than complete original discussions. Proposed and unresolved material is not adopted office policy.
-
-**Status:** Partially Confirmed; detailed language unavailable
+**Last revised:** November 18, 2026
 
 The office distinguishes between:
 
@@ -34,23 +29,17 @@ A previously developed note addressed gridline references to:
 
 The user explicitly preferred this convention to appear in General Notes rather than only in floor-plan notes.
 
-Status: Confirmed as to placement; exact final wording unavailable.
-
 ## Structural posts and shear walls
 
 Floor-plan notes addressing structural posts and shear walls were developed or requested in earlier discussions.
 
 Their exact final wording is not available in the accessible conversation.
 
-Status: Unresolved for publication.
-
 ## Site verification
 
 A note concerning verification before excavation was previously recommended for site plans.
 
 The exact adopted wording is unavailable.
-
-Status: Unresolved for publication.
 
 ## Related standards
 

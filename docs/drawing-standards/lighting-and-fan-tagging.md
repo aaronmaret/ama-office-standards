@@ -1,11 +1,6 @@
 # Lighting and Fan Tagging
 
-**Last revised:** November 17, 2026
-
-!!! note "Source and status"
-    Imported from the November 17, 2026 conversation export. Its status labels are retained; some earlier decisions were recovered from summaries rather than complete original discussions. Proposed and unresolved material is not adopted office policy.
-
-**Status:** Proposed
+**Last revised:** November 18, 2026
 
 Use the Reflected Ceiling Plan (RCP) as the primary fixture-identification drawing.
 

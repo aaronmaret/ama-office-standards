@@ -1,14 +1,9 @@
 # LayOut Numeric Input
 
-**Last revised:** November 17, 2026
-
-!!! note "Source and status"
-    Imported from the November 17, 2026 conversation export. Its status labels are retained; some earlier decisions were recovered from summaries rather than complete original discussions. Proposed and unresolved material is not adopted office policy.
+**Last revised:** November 18, 2026
 
 !!! warning "Historical software workaround"
     This records a previously observed issue. Applicability to the current software version has not been verified.
-
-**Status:** Confirmed troubleshooting result
 
 A LayOut issue was identified in which the numeric keypad Enter key did not register correctly for certain drawing and transformation operations.
 
