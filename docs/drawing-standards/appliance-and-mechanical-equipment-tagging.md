@@ -6,10 +6,6 @@
 
 Use floor plans as the primary tagging location.
 
-Example:
-
-`AP-01` — Refrigerator
-
 The Appliance Schedule identifies the manufacturer, model, and relevant requirements.
 
 Interior elevations supplement plan information where cabinet and appliance relationships require clarification.

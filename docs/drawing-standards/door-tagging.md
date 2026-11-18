@@ -12,14 +12,10 @@ Established door identifiers include:
 ## Recommended placement
 
 - Tag doors on floor plans.
-- Use one identifier for an entire door assembly, including double-door and folding-door assemblies.
+- Use normal door numbering for specialty doors. Identify each assembly as one item, including double-door and folding-door assemblies.
 - Show swing and handing on floor plans.
 - Repeat the door ID on an elevation only when necessary to clarify an unusual assembly.
 - Use the Door Type Legend to communicate appearance and configuration.
-
-## Unresolved
-
-The complete rules for multi-building door identifiers, door numbering exceptions, and certain specialty assemblies are not preserved in the current conversation.
 
 ## Related standards
 

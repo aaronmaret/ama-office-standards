@@ -11,10 +11,7 @@
 
 ## Custom built-ins
 
-Assign assembly identifiers such as:
-
-- `BI-01`
-- `BI-02`
+Assign an assembly identifier to each custom built-in.
 
 Examples include:
 

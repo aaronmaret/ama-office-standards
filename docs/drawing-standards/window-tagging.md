@@ -11,16 +11,14 @@ Window identifiers follow the established office format:
 
 The first digit corresponds to the applicable level under the established protocol.
 
+Use normal window numbering for skylights and grouped windows. Identify each assembly as one item.
+
 ## Recommended placement
 
 - Tag every window on the floor plans.
 - Repeat tags selectively on exterior elevations.
 - Use elevation tags where stacked openings, similar window types, or complex arrangements make identification difficult.
 - Avoid repeating all tags automatically on every exterior elevation.
-
-## Unresolved
-
-The complete earlier window-numbering protocol is not available in this conversation. Rules for multi-building prefixes, special openings, and all numbering exceptions require confirmation from the original protocol.
 
 ## Related standards
 

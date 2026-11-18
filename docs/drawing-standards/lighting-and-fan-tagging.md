@@ -4,13 +4,9 @@
 
 Use the Reflected Ceiling Plan (RCP) as the primary fixture-identification drawing.
 
-## Suggested identifiers
+## Type Identifiers
 
-- `L-01` — Lighting fixture type
-- `L-02` — Lighting fixture type
-- `F-01` — Fan type
-
-Multiple fixtures of the same model may share a type identifier.
+Use type identifiers coordinated with the Lighting + Fan Schedule. Multiple fixtures of the same type may share an identifier.
 
 ## Drawing responsibilities
 

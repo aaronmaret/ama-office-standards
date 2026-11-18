@@ -18,3 +18,9 @@ See the [protocol inventory](protocol-inventory.md) for status and the [source n
 ## Drawing Note Wording
 
 Recover and verify the original wording for gridline references, structural-post and shear-wall notes, and site verification before excavation before adding those notes to drawing templates.
+
+## Item Identification Follow-Up
+
+- Multi-building door and window numbering is intentionally undefined for now.
+- Obtain the actual office tag formats for appliances, built-ins, lighting, and fans. Earlier AP-01, BI-01, L-01, and F-01 examples do not represent the office formats.
+- Specialty door assemblies, skylights, and grouped windows use normal door/window numbering, with each assembly identified as one item.
