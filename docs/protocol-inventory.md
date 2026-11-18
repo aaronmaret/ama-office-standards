@@ -15,7 +15,7 @@ The 42 protocols below were imported from the conversation export. **Confirmed**
 | [Appliance and Mechanical Equipment Tagging](drawing-standards/appliance-and-mechanical-equipment-tagging.md) | Proposed |
 | [Lighting and Fan Tagging](drawing-standards/lighting-and-fan-tagging.md) | Proposed |
 | [Receptacle Identification](drawing-standards/receptacle-identification.md) | Proposed |
-| [Drawing Callouts and Reference Symbols](drawing-standards/drawing-callouts-and-reference-symbols.md) | Unresolved |
+| [Drawing Callouts and Reference Symbols](drawing-standards/drawing-callouts-and-reference-symbols.md) | Updated November 18, 2026 from the office symbol legend |
 | [General Scheduling Philosophy](schedules/general-scheduling-philosophy.md) | Proposed |
 | [Recommended Construction Document Schedules](schedules/recommended-construction-document-schedules.md) | Proposed |
 | [General Schedule Identification Protocol](schedules/general-schedule-identification-protocol.md) | Proposed |
