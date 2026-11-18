@@ -2,21 +2,27 @@
 
 **Last revised:** November 18, 2026
 
-The recommended convention is:
+The convention for naming drawings that have both a drawing type and a designated location or area is:
 
-Drawing Type – Building Level or Area
+**Drawing Type – Level, Location, or Area**
 
-The drawing type precedes the level designation.
+The drawing type precedes the level, location, area, or other applicable designation.
 
 ## Examples
 
-| Drawing type           | Main level                          | Upper level                          |
-| ---------------------- | ----------------------------------- | ------------------------------------ |
-| Floor Plan             | Floor Plan – Main Level             | Floor Plan – Upper Level             |
-| MEP Plan               | MEP Plan – Main Level               | MEP Plan – Upper Level               |
-| Reflected Ceiling Plan | Reflected Ceiling Plan – Main Level | Reflected Ceiling Plan – Upper Level |
-| Framing Plan           | Framing Plan – Main Level           | Framing Plan – Upper Level           |
-| Finish Plan            | Finish Plan – Main Level            | Finish Plan – Upper Level            |
+| Drawing Type | Example Titles |
+| --- | --- |
+| Floor Plan | Floor Plan – Main Level<br>Floor Plan – Upper Level |
+| MEP Plan | MEP Plan – Main Level<br>MEP Plan – Upper Level |
+| Reflected Ceiling Plan | Reflected Ceiling Plan – Main Level<br>Reflected Ceiling Plan – Upper Level |
+| Framing Plan | Framing Plan – Main Level<br>Framing Plan – Upper Level |
+| Finish Plan | Finish Plan – Main Level<br>Finish Plan – Upper Level |
+| Enlarged Plan | Enlarged Plan – Kitchen<br>Enlarged Plan – Primary Bathroom |
+| Exterior Elevation | Exterior Elevation – North<br>Exterior Elevation – South |
+| Building Section | Building Section – AA<br>Building Section – BB<br>Building Section – CC |
+| Interior Elevation | Interior Elevation – Kitchen Cabinetry @ Fridge<br>Interior Elevation – Pantry Shelving |
+| Plan Detail | Plan Detail – Post Attachment at C5 |
+| Section Detail | Section Detail – Sill @ Window Type A |
 
 The alternative convention, Main Level Floor Plan, was considered but not recommended.
 
