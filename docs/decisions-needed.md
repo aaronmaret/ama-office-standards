@@ -22,5 +22,5 @@ Recover and verify the original wording for gridline references, structural-post
 ## Item Identification Follow-Up
 
 - Multi-building door and window numbering is intentionally undefined for now.
-- Obtain the actual office tag formats for appliances, built-ins, lighting, and fans. Earlier AP-01, BI-01, L-01, and F-01 examples do not represent the office formats.
+- Select two-letter category designators for general Item Tags. The format is established: two letters followed immediately by one or two numerals, with no separator. Category-specific window, door, wall, lighting, and fan tags remain separate.
 - Specialty door assemblies, skylights, and grouped windows use normal door/window numbering, with each assembly identified as one item.

@@ -31,6 +31,14 @@ This system applies to plans, elevations, sections, and details. Keynote numbers
 
 Tag each item primarily on the drawing where its location and installation are most clearly communicated. Repeat tags on other views only when they improve coordination.
 
+### Item Tag Format
+
+Use an **elongated hexagon** for general tagged items. Categories with their own tag types—windows, doors, wall assemblies, lights, and fans—retain those category-specific tags.
+
+The general Item Tag contains a **two-letter category designator followed immediately by one or two numerals**. Do not insert a dash, period, or space. Format placeholders: `XX1` or `XX01`, where `XX` represents the category designator.
+
+The tag shape and category designator identify the item category. The full identifier refers to the applicable instance, type, or assembly in its schedule, legend, or detail.
+
 ### Item Types
 
 Use item tags for the following categories when they reference a schedule, type legend, or defined assembly. Identify types, groups, or assemblies rather than every component unless individual identification is needed.
@@ -71,17 +79,19 @@ Room labels, grid references, and drawing callouts have separate identification 
 
 **Assembly describes the scope of the identified item.** An assembly may have a unique instance mark or a repeatable type mark; it does not automatically need an additional competing ID. A door instance mark can identify the entire door assembly, while a custom built-in uses its assembly mark.
 
-### Primary Tag Locations
+### Item-Specific Tagging Rules
 
-| Item | Primary Location | Secondary Use |
+| Item | Primary Location | Identification and Coordination |
 | --- | --- | --- |
-| Windows | Floor plans | Repeat selectively on exterior elevations |
-| Doors | Floor plans | Repeat on elevations only where needed for clarity |
-| Cabinets + Built-ins | Interior elevations | Use plan tags selectively |
-| Appliances | Floor plans | Supplement with interior elevations where needed |
-| Mechanical equipment | Mechanical plans or floor plans | Use sections or elevations to clarify spatial relationships |
-| Lights + Fans | Reflected ceiling plan (RCP) | Coordinate with the electrical plan |
-| Receptacles | Electrical power plan | Use symbols rather than individual IDs; supplement with elevations where needed |
+| Windows + Skylights | Floor plans | Use normal window numbering, such as `1.01` and `2.01`; the leading digit identifies the level. Identify grouped windows and skylight assemblies as one item. Repeat tags on elevations only where stacked openings or complex arrangements need clarification. |
+| Doors | Floor plans | Use normal door numbering, such as `101` and `201`. One identifier covers the complete assembly, including multi-leaf, folding, and specialty doors. Show swing and handing on plans; use the Door Type Legend for appearance/configuration. Repeat IDs on elevations only where needed. |
+| Cabinetry + Built-ins | Interior elevations | Identify cabinet groups or complete built-ins rather than every cabinet box. Plans establish arrangement; elevations establish composition, dimensions, finishes, and appliance relationships; shop drawings provide fabrication information where required. Use plan tags selectively. |
+| Appliances | Floor plans | Refer to the Appliance Schedule for manufacturer, model, and requirements. Use interior elevations to clarify cabinet and appliance relationships. |
+| Mechanical Equipment | Mechanical plans, or architectural plans where coordination requires | Keep equipment specifications in one coordinated schedule. Use sections or elevations to clarify clearances and spatial relationships. |
+| Lights + Fans | Reflected ceiling plans | Identify fixture types; repeated occurrences may share a type mark. RCPs establish fixture locations, ceiling relationships, beams, soffits, and alignment. Electrical plans establish switching, circuits, and controls. Use elevations for wall-mounted fixture heights. Combine RCP/electrical information on small projects when legible. |
+| Receptacles | Electrical power plans | Use symbols for standard duplex, GFCI-protected, weather-resistant exterior, floor, dedicated appliance, 240V, and USB devices. Use a product tag only for a specialty selection or installation. Add elevations for precise relationships to backsplashes, vanities, desks, or cabinetry. |
+
+Product families and finishes belong in the applicable schedule or selections documentation. Detailed door/window schedule requirements remain in [Door Schedule Protocol](../schedules/door-schedule-protocol.md) and [Window Schedule Protocol](../schedules/window-schedule-protocol.md).
 
 ### Tag Coordination
 

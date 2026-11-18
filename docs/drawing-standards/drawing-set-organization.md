@@ -71,15 +71,6 @@ These examples illustrate the format; individual sheet assignments may vary by p
 
 Smaller projects may combine multiple schedules on one sheet. Schedules belong in A0; A8 and A9 remain reserved.
 
-## Superseded Standards
-
-The previous protocol assigned:
-
-- A6 — Schedules
-- A9 — Construction Details
-
-The previous A5 designation, Interior Elevations + 3D, has been expanded to include enlarged plans.
-
 ## Related Standards
 
 [Drawing Title Naming Convention](drawing-naming.md) · [Drawing Coordination and Authority](../project-delivery/drawing-coordination-and-authority.md) · [Construction Documentation Quality Checks](../project-delivery/construction-documentation-quality-checks.md)

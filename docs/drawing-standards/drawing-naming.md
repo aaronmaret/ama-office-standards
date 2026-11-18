@@ -24,17 +24,13 @@ The drawing type precedes the level, location, area, or other applicable designa
 | Plan Detail | Plan Detail – Post Attachment at C5 |
 | Section Detail | Section Detail – Sill at Window Type A |
 
-The alternative convention, Main Level Floor Plan, was considered but not recommended.
-
 ## “At” Versus “@”
 
 Use “at” to identify a location or condition in drawing titles. Reserve “@” for technical annotations where it has an established meaning, such as spacing.
 
-## Proposed office-standard language
+Use an en dash between the drawing type and its designation. Keep drawing type terminology consistent throughout the set.
 
-> Drawing titles shall identify the drawing type first, followed by the building level, area, or other applicable designation, separated by an en dash. Drawing type terminology shall remain consistent throughout the drawing set.
-
-## Sheet titles versus drawing titles
+## Sheet Titles Versus Drawing Titles
 
 Sheet titles and individual drawing titles may differ.
 
@@ -52,17 +48,15 @@ Sheet A2.2 — MAIN LEVEL PLANS
 - Drawing 1: FLOOR PLAN – MAIN LEVEL
 - Drawing 2: MEP PLAN – MAIN LEVEL
 
-Both arrangements are compatible with the proposed drawing-title convention.
+Both arrangements follow the drawing-title convention.
 
-## MEP terminology
+## MEP Terminology
 
 Use MEP Plan when the drawing genuinely combines mechanical, electrical, and plumbing information.
 
 Use Electrical Plan when the drawing primarily shows receptacles, switches, and related electrical devices.
 
-This distinction was recommended but not formally adopted.
-
-## Level terminology
+## Level Terminology
 
 Use consistent terminology throughout a drawing set, such as:
 
@@ -72,6 +66,6 @@ Use consistent terminology throughout a drawing set, such as:
 
 Avoid alternating between First Floor, Ground Floor, and Main Level for the same building level.
 
-## Related standards
+## Related Standards
 
 [Drawing Set Organization](drawing-set-organization.md) · [Drawing Notes and Tags](drawing-notes-and-tags.md) · [General Schedule Identification Protocol](../schedules/general-schedule-identification-protocol.md)

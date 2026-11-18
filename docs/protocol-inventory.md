@@ -1,20 +1,14 @@
 # Protocol inventory
 
-**Last revised:** November 17, 2026
+**Last revised:** November 18, 2026
 
-The 42 protocols below were imported from the conversation export. **Confirmed** records the export's characterization of an earlier decision; it does not mean the complete original source or current software/workbook implementation has been independently verified. **Proposed** and **Unresolved** remain subject to review.
+This inventory tracks the current pages. Drawing Standards have been consolidated and revised; source classifications for other sections remain subject to review.
 
 | Protocol | Source Status |
 | --- | --- |
 | [Drawing Set Organization](drawing-standards/drawing-set-organization.md) | Updated November 18, 2026: phase organization, numbering, and typical sheet sizes |
-| [Drawing Title Naming Convention](drawing-standards/drawing-naming.md) | Proposed |
-| [Drawing Notes and Tags](drawing-standards/drawing-notes-and-tags.md) | Updated November 18, 2026: note placement, numeric sheet keynotes, and item tags |
-| [Window Tagging](drawing-standards/window-tagging.md) | Proposed tagging location; Confirmed numbering format |
-| [Door Tagging](drawing-standards/door-tagging.md) | Proposed tagging location; Confirmed numbering format |
-| [Cabinetry and Built-in Tagging](drawing-standards/cabinetry-and-built-in-tagging.md) | Proposed |
-| [Appliance and Mechanical Equipment Tagging](drawing-standards/appliance-and-mechanical-equipment-tagging.md) | Proposed |
-| [Lighting and Fan Tagging](drawing-standards/lighting-and-fan-tagging.md) | Proposed |
-| [Receptacle Identification](drawing-standards/receptacle-identification.md) | Proposed |
+| [Drawing Title Naming Convention](drawing-standards/drawing-naming.md) | Revised November 18, 2026 |
+| [Drawing Notes and Tags](drawing-standards/drawing-notes-and-tags.md) | Updated November 18, 2026: consolidated note/tag rules and general Item Tag format |
 | [Drawing Callouts and Reference Symbols](drawing-standards/drawing-callouts-and-reference-symbols.md) | Updated November 18, 2026 from the office symbol legend |
 | [General Scheduling Philosophy](schedules/general-scheduling-philosophy.md) | Proposed |
 | [Recommended Construction Document Schedules](schedules/recommended-construction-document-schedules.md) | Proposed |

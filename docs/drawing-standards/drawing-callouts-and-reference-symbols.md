@@ -33,9 +33,9 @@ Examples: `AA/A4.01` refers to Building Section AA on A4.01; `5/A6.01` refers to
 | Door Tag | Circle | Door instance |
 | Window Tag | Hexagon | Window instance |
 | Keynote Tag | Rounded capsule, with a leader where needed | Numeral in the same sheet's keynote list |
-| Item Tag | Elongated hexagon | Scheduled item, type, or assembly |
+| Item Tag | Elongated hexagon | General item identifier: two-letter category designator immediately followed by one or two numerals; no separator |
 
-Symbol shape identifies the kind of reference. The text inside carries the applicable identifier. The legend's `00`, `000`, `A0.00`, and `E.00` labels are graphic examples, not required identifier formats. Use the numbering and identifiers established for the project; keynotes use numerals only.
+Symbol shape identifies the kind of reference. The text inside carries the applicable identifier. The legend's `00`, `000`, `A0.00`, and `E.00` labels are graphic examples, not required identifier formats. Use the numbering and identifiers established for the project; keynotes use numerals only. General Item Tags follow `XX1` or `XX01` (two letters plus numerals), replacing the legend's sample `E.00` format. Windows, doors, wall assemblies, lights, and fans retain their category-specific tag types.
 
 ## Lines and Work Conditions
 
