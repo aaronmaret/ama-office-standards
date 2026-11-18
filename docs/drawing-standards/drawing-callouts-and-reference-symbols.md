@@ -18,7 +18,7 @@ A drawing reference identifies **the target drawing and the sheet where it appea
 | Elevation Tag | Divided circle with a filled triangular direction indicator | Identifies the elevation view and destination sheet; the indicator shows the viewing direction |
 | Interior Elevation Tag | Small filled triangular indicator on a horizontal line, with a compact drawing/sheet reference | Identifies an interior elevation and its viewing direction |
 | Section Tag | Divided circular reference head, filled direction indicator, and section line/tail | Locates the cut and identifies the section drawing, sheet, and viewing direction |
-| Detail Tag | Dashed boundary around the referenced area, connected to a divided circular marker | Identifies the area enlarged or detailed and the destination drawing and sheet |
+| Detail / Enlarged View Tag | Dashed boundary around the referenced area, connected to a divided circular marker | Identifies the area enlarged or detailed and the destination drawing and sheet |
 
 Examples: `AA/A4.01` refers to Building Section AA on A4.01; `5/A6.01` refers to Drawing 5 on A6.01.
 
@@ -35,7 +35,9 @@ Examples: `AA/A4.01` refers to Building Section AA on A4.01; `5/A6.01` refers to
 | Keynote Tag | Rounded capsule, with a leader where needed | Numeral in the same sheet's keynote list |
 | Item Tag | Elongated hexagon | General item identifier: two-letter category designator immediately followed by one or two numerals; no separator |
 
-Symbol shape identifies the kind of reference. The text inside carries the applicable identifier. The legend's `00`, `000`, `A0.00`, and `E.00` labels are graphic examples, not required identifier formats. Use the numbering and identifiers established for the project; keynotes use numerals only. General Item Tags use two-letter category codes followed immediately by one or two numerals, such as `AP1` or `AP01`, replacing the legend's sample `E.00` format. Square Assembly Tags use a single category letter followed immediately by one or two numerals, such as `W1` or `R01`. Foundation conditions use detail references rather than a foundation assembly tag. Windows, doors, lights, and fans retain their category-specific tags.
+Symbol shape identifies the kind of reference; the text inside carries the applicable identifier. General Item Tags use two-letter category codes followed immediately by one or two numerals, such as `AP1` or `AP01`. Square Assembly Tags use a single category letter followed immediately by one or two numerals, such as `W1` or `R01`.
+
+Keynotes use numerals only. Foundation conditions use detail references rather than a foundation assembly tag. Windows, doors, lights, and fans retain their category-specific tags.
 
 ## Lines and Work Conditions
 
@@ -61,9 +63,9 @@ Symbol shape identifies the kind of reference. The text inside carries the appli
 
 ## Symbol Legend
 
-The reference image below shows the symbol shapes and line conventions. The square labeled **Wall Tag** is now the **Assembly Tag**. Apply the current names and identifier formats above rather than copying the image's sample labels.
+Use the symbol shapes and line conventions below. The identifiers are examples; use the actual drawing, sheet, item, assembly, and keynote references for the project.
 
-![AMA drawing symbol legend](../assets/ama-symbol-legend.png)
+![AMA drawing symbol legend](../assets/ama-symbol-legend-v2.png)
 
 ## Related Standards
 
