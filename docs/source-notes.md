@@ -36,4 +36,6 @@ This edition includes general protocols and illustrative product examples. Inter
 
 ## Website implementation
 
-The source export's website proposal is now implemented: MkDocs Material, Markdown, GitHub Actions, GitHub Pages, the custom domain, and HTTPS. Instructions for changes are on [Maintaining this manual](maintaining.md).
+The source export's website proposal is now implemented: Zensical (classic theme), Markdown, GitHub Actions, GitHub Pages, the custom domain, and HTTPS. Instructions for changes are on [Maintaining this manual](maintaining.md).
+
+The site migrated from MkDocs Material to Zensical on November 18, 2026. The Markdown content, page addresses, and source-status labels are preserved.

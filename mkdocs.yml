@@ -6,7 +6,7 @@ repo_name: AMA / Office Standards
 edit_uri: edit/main/docs/
 strict: true
 theme:
-  name: material
+  variant: classic
   logo: assets/ama-logo.png
   font: false
   palette:
