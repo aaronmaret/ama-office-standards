@@ -1,37 +1,30 @@
 # Plumbing Fixture Schedule
 
-**Last revised:** November 18, 2026
+**Last revised:** November 24, 2026
+
+## Provisional Template
+
+The column structure is proposed and remains subject to refinement through project implementation.
+
+**Columns:** `ID | TYPE | LOCATION | MANUFACTURER | MODEL | FINISH | NOTES`
+
+**Drawing tag:** `PF01`
+
+**Schedule ID:** `PF-01`
+
+Standard width: **two horizontal grid modules**. Height varies with content and associated notes.
 
 ## Scope
 
-- Lavatories
-- Faucets
-- Toilets
-- Bathtubs
-- Shower heads
-- Shower valves and trim
-- Kitchen sinks
-- Laundry sinks
-- Specialty plumbing fixtures
+Sinks, faucets, lavatories, water closets, tubs, shower valves and trim, and specialty plumbing fixtures.
 
-## Proposed columns
+## Coordination
 
-`ID | Fixture | Location | Manufacturer | Model | Finish`
-
-## Worked example
-
-| ID    | Fixture         | Location     | Manufacturer | Model | Finish |
-| ----- | --------------- | ------------ | ------------ | ----- | ------ |
-| PF01 | Lavatory faucet | Primary Bath | TBD          | TBD   | Chrome |
-| PF02 | Lavatory sink   | Primary Bath | TBD          | TBD   | White  |
-| PF03 | Toilet          | Bathrooms    | TBD          | TBD   | White  |
-
-## Recommended rules
-
-- Schedule sinks and faucets separately unless purchased as a single assembly.
-- Schedule shower valves, trim, heads, and hand showers separately when they are distinct products.
+- Schedule sinks and faucets separately.
+- Schedule separate shower components individually when they are distinct products.
 - Coordinate rough-in requirements with product documentation.
 
-## Related standards
 
-[General Scheduling Philosophy](general-scheduling-philosophy.md) · [General Schedule Identification Protocol](general-schedule-identification-protocol.md) · [SD/DD Selections Book](sd-dd-selections-book.md) · [SD/DD to CD Documentation Handoff](sd-dd-to-cd-documentation-handoff.md)
+## Related Standards
+
+[CD Schedule Inventory](recommended-construction-document-schedules.md) · [General Schedule Identification Protocol](general-schedule-identification-protocol.md) · [Drawing Notes and Tags](../drawing-standards/drawing-notes-and-tags.md)

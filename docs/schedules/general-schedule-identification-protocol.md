@@ -1,6 +1,12 @@
 # General Schedule Identification Protocol
 
-**Last revised:** November 18, 2026
+**Last revised:** November 24, 2026
+
+## Drawing Tags and Schedule IDs
+
+Use compact drawing tags without hyphens and readable schedule IDs with hyphens. Keep the category and sequence consistent: `AP01` ↔ `AP-01`, `HA01` ↔ `HA-01`, `EQ01` ↔ `EQ-01`.
+
+Door and window instance numbering retain their established formats. Material/finish references use the separate [Materials + Finishes Legend](materials-finishes-legend.md) classification.
 
 ## Identifier categories
 
@@ -9,14 +15,14 @@
 | Instance ID    | Door `101`        | One specific door assembly                          |
 | Instance ID    | Window `1.01`     | One specific window assembly                        |
 | Type ID        | Lighting type mark      | A fixture model used at multiple locations          |
-| Type ID        | Appliance `AP01` | A product selection potentially used more than once |
-| Assembly ID    | Built-in `BI01`  | A particular custom built-in assembly               |
+| Type ID        | Appliance `AP-01` | A product selection potentially used more than once |
+| Assembly ID    | Built-in `BI-01`  | A particular custom built-in assembly               |
 
 ## Recommended conventions
 
 | Convention           | Rule                                                                |
 | -------------------- | ------------------------------------------------------------------- |
-| Identifiers          | Two-letter category code immediately followed by one or two numerals; no separator, such as `AP01`   |
+| Identifiers | Drawing tags omit separators; schedules insert a hyphen between the category and the same sequence, such as `AP01` and `AP-01` |
 | Repeated products    | Same product/type ID may appear at multiple locations               |
 | Location             | Room name, room number, or keyed plan reference                     |
 | Dimensions           | Inches, consistent with established office conventions              |

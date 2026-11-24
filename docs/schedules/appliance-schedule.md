@@ -1,40 +1,30 @@
 # Appliance Schedule
 
-**Last revised:** November 18, 2026
+**Last revised:** November 24, 2026
+
+## Provisional Template
+
+The column structure is proposed and remains subject to refinement through project implementation.
+
+**Columns:** `ID | TYPE | LOCATION | MANUFACTURER | MODEL | FINISH | NOTES`
+
+**Drawing tag:** `AP01`
+
+**Schedule ID:** `AP-01`
+
+Standard width: **two horizontal grid modules**. Height varies with content and associated notes.
 
 ## Scope
 
-- Ranges
-- Ovens
-- Cooktops
-- Refrigerators
-- Dishwashers
-- Microwaves
-- Range hoods
-- Washers
-- Dryers
-- Beverage refrigerators
-- Specialty appliances
-
-## Proposed columns
-
-`ID | Item | Location | Manufacturer | Model | Remarks`
-
-## Worked example
-
-| ID    | Item         | Location | Manufacturer | Model | Remarks     |
-| ----- | ------------ | -------- | ------------ | ----- | ----------- |
-| AP01 | Refrigerator | Kitchen  | TBD          | TBD   | Panel-ready |
-| AP02 | Range        | Kitchen  | TBD          | TBD   | 36"         |
-| AP03 | Dishwasher   | Kitchen  | TBD          | TBD   | Integrated  |
+Refrigerators, ranges, ovens, cooktops, dishwashers, microwaves, range hoods, washers, dryers, and specialty appliances.
 
 ## Coordination
 
-- Appliance dimensions and clearances must be coordinated with manufacturer documentation.
-- Cabinet elevations must reflect appliance requirements.
-- Required utility connections must be coordinated with the relevant trades.
-- Appliances are primarily tagged on floor plans.
+- Coordinate dimensions, clearances, and utility connections with manufacturer requirements and the relevant trades.
+- Reflect appliance requirements in cabinet elevations.
+- Tag appliances primarily on floor plans; supplement with interior elevations where needed.
 
-## Related standards
 
-[General Scheduling Philosophy](general-scheduling-philosophy.md) · [General Schedule Identification Protocol](general-schedule-identification-protocol.md) · [SD/DD Selections Book](sd-dd-selections-book.md) · [SD/DD to CD Documentation Handoff](sd-dd-to-cd-documentation-handoff.md)
+## Related Standards
+
+[CD Schedule Inventory](recommended-construction-document-schedules.md) · [General Schedule Identification Protocol](general-schedule-identification-protocol.md) · [Drawing Notes and Tags](../drawing-standards/drawing-notes-and-tags.md)

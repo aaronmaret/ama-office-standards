@@ -1,6 +1,6 @@
 # Drawing Set Organization
 
-**Last revised:** November 18, 2026
+**Last revised:** November 24, 2026
 
 Office protocol distinguishes between SD and DD/CD documentation.
 
@@ -29,7 +29,7 @@ Use the expanded sheet number format using the series numbers as follows.
 
 Examples: `A2.1` or `A2.01` for a sheet in the A2 Plans series.
 
-Typical sheet size: **24 × 36 inches**.
+Standard sheet size: **24 × 36 inches**, with a grid of **6 modules wide × 4 modules high**. CD schedules are **two horizontal grid modules wide**; height varies with content and associated notes.
 
 ### Choosing the Sequence Length
 
@@ -60,7 +60,7 @@ These examples illustrate the format; individual sheet assignments may vary by p
 | --- | --- | --- | --- |
 | A0 | A0.1 | A0.01 | General information |
 | A0 | A0.2 | A0.02 | Door and window schedules |
-| A0 | A0.3 | A0.03 | Fixture and equipment schedules |
+| A0 | A0.3 | A0.03 | Schedules |
 | A1 | A1.1 | A1.01 | Site plan |
 | A2 | A2.1 | A2.01 | Main level floor plan |
 | A3 | A3.1 | A3.01 | Exterior elevations |
@@ -70,6 +70,17 @@ These examples illustrate the format; individual sheet assignments may vary by p
 | A7 | A7.1 | A7.01 | Diagrams |
 
 Smaller projects may combine multiple schedules on one sheet. Schedules belong in A0; A8 and A9 remain reserved.
+
+## Recommended Schedule Sheets
+
+For residential projects where the schedules fit on two sheets:
+
+| Sheet | Title |
+| --- | --- |
+| A0.02 | DOOR + WINDOW SCHEDULES |
+| A0.03 | SCHEDULES |
+
+Add sheets as project complexity warrants. See the [CD schedule inventory](../schedules/recommended-construction-document-schedules.md).
 
 ## Related Standards
 

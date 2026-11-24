@@ -1,44 +1,30 @@
 # Glass + Mirror Schedule
 
-**Last revised:** November 18, 2026
+**Last revised:** November 24, 2026
+
+## Provisional Template
+
+The column structure is proposed and remains subject to refinement through project implementation.
+
+**Columns:** `ID | TYPE | SIZE | FRAME / EDGE | NOTES`
+
+**Drawing tag:** `GL01 / MR01`
+
+**Schedule ID:** `GL-01 / MR-01`
+
+Standard width: **two horizontal grid modules**. Height varies with content and associated notes.
 
 ## Scope
 
-- Bathroom mirrors
-- Medicine cabinets
-- Shower enclosures
-- Fixed shower screens
-- Specialty interior glazing
+Shower enclosures, shower screens, specialty interior glazing, vanity mirrors, framed mirrors, and medicine cabinets.
 
-## Identifiers
+## Coordination
 
-- `GL01`
-- `MR01`
+- Coordinate glazing, hardware, blocking, tile, waterproofing, and installation conditions.
+- Keep glass and mirror identifiers distinct even when sharing one schedule.
+- Coordinate final shower-glass dimensions with field verification by the fabricator.
 
-The recommendation is to distinguish glass and mirror identifiers even when the products share one schedule.
 
-## Proposed columns
+## Related Standards
 
-`ID | Item | Location | Type | Finish / Frame | Remarks`
-
-## Worked example
-
-| ID    | Item             | Location     | Type      | Finish / Frame | Remarks       |
-| ----- | ---------------- | ------------ | --------- | -------------- | ------------- |
-| GL01 | Shower enclosure | Primary Bath | Frameless | Chrome         | Hinged door   |
-| MR01 | Vanity mirror    | Primary Bath | Frameless | Polished edge  | See elevation |
-| MR02 | Vanity mirror    | Bath 2       | Framed    | Black          | See elevation |
-
-## Coordination requirements
-
-- Safety-glazing requirements
-- Tile and waterproofing
-- Blocking
-- Hardware
-- Installation conditions
-
-Final shower-glass dimensions may be field-verified by the glass subcontractor.
-
-## Related standards
-
-[General Scheduling Philosophy](general-scheduling-philosophy.md) · [General Schedule Identification Protocol](general-schedule-identification-protocol.md) · [SD/DD Selections Book](sd-dd-selections-book.md) · [SD/DD to CD Documentation Handoff](sd-dd-to-cd-documentation-handoff.md)
+[CD Schedule Inventory](recommended-construction-document-schedules.md) · [General Schedule Identification Protocol](general-schedule-identification-protocol.md) · [Drawing Notes and Tags](../drawing-standards/drawing-notes-and-tags.md)

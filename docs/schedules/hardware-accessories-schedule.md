@@ -1,38 +1,30 @@
 # Hardware + Accessories Schedule
 
-**Last revised:** November 18, 2026
+**Last revised:** November 24, 2026
+
+## Provisional Template
+
+The column structure is proposed and remains subject to refinement through project implementation.
+
+**Columns:** `ID | TYPE | MANUFACTURER / MODEL | FINISH | NOTES`
+
+**Drawing tag:** `HA01`
+
+**Schedule ID:** `HA-01`
+
+Standard width: **two horizontal grid modules**. Height varies with content and associated notes.
 
 ## Scope
 
-- Towel bars
-- Towel rings
-- Toilet paper holders
-- Robe hooks
-- Coat hooks
-- Closet rods
-- Shelf supports
-- Specialty wall-mounted accessories
+Towel bars, toilet paper holders, robe hooks, coat hooks, closet rods, shelf supports, and shelving systems.
 
-## Proposed columns
-
-`ID | Item | Application | Manufacturer / Model | Finish`
-
-## Worked example
-
-| ID    | Item       | Application | Manufacturer / Model | Finish |
-| ----- | ---------- | ----------- | -------------------- | ------ |
-| HA01 | Towel bar  | Bathrooms   | TBD                  | Chrome |
-| HA02 | TP holder  | Bathrooms   | TBD                  | Chrome |
-| HA03 | Coat hook  | Mudroom     | TBD                  | Black  |
-| HA04 | Closet rod | Closets     | Standard oval rod    | Chrome |
-
-## Recommended rules
+## Coordination
 
 - Keep this schedule distinct from the Door Hardware Schedule.
-- Door hardware remains governed by its own functional hardware groups.
-- Closet shelving may be identified by system or material in the schedule.
-- Plans and elevations establish actual shelf and rod arrangements.
+- Door hardware groups remain in the door schedule and Door Hardware Schedule.
+- Plans and elevations establish shelf and rod arrangements.
 
-## Related standards
 
-[General Scheduling Philosophy](general-scheduling-philosophy.md) · [General Schedule Identification Protocol](general-schedule-identification-protocol.md) · [SD/DD Selections Book](sd-dd-selections-book.md) · [SD/DD to CD Documentation Handoff](sd-dd-to-cd-documentation-handoff.md)
+## Related Standards
+
+[CD Schedule Inventory](recommended-construction-document-schedules.md) · [General Schedule Identification Protocol](general-schedule-identification-protocol.md) · [Drawing Notes and Tags](../drawing-standards/drawing-notes-and-tags.md)

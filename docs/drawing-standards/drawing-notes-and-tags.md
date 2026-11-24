@@ -1,6 +1,6 @@
 # Drawing Notes and Tags
 
-**Last revised:** November 18, 2026
+**Last revised:** November 24, 2026
 
 ## Placement
 
@@ -38,7 +38,7 @@ Use an **elongated hexagon** for scheduled products, items, and fabricated units
 
 The Item Tag contains a **two-letter category designator followed immediately by one or two numerals**. Do not insert a dash, period, or space. Examples: `AP1` or `AP01`, `BI3` or `BI03`.
 
-The full identifier references the applicable instance, product type, or fabricated unit in its schedule or detail.
+The full identifier references the applicable instance, product type, or fabricated unit in its schedule or detail. Schedule IDs insert a hyphen for readability: drawing tag `AP01` corresponds to schedule ID `AP-01`. Keep the category and sequence consistent.
 
 ### Item Category Designators
 
@@ -49,16 +49,19 @@ The full identifier references the applicable instance, product type, or fabrica
 | **CB** | Cabinetry | Cabinet groups, vanities, and cabinet systems |
 | **BI** | Custom Built-ins | Benches, shelving, closets, and custom storage units |
 | **PF** | Plumbing Fixtures + Fittings | Sinks, faucets, toilets, tubs, shower components, hose bibbs, and exterior showers |
-| **ME** | Mechanical Equipment | Heating, cooling, ventilation, dehumidification equipment, and controls |
+| **EQ** | Building Equipment | Mechanical, plumbing, electrical, and fuel-system equipment, including heating/cooling units, water heaters, panels, generators, and tanks |
 | **ED** | Specialty Electrical + Low-Voltage Devices | Selected devices, charging equipment, communications/security equipment, and specialty controls |
 | **HA** | Hardware + Accessories | Bath accessories, hooks, rods, and specialty hardware |
 | **GL** | Glass + Glazing Assemblies | Scheduled shower enclosures, screens, partitions, and fabricated glazing units |
 | **MR** | Mirrors + Medicine Cabinets | Mirrors, frames, and medicine cabinets |
-| **FN** | Finishes + Surface Materials | Flooring, tile, wall/ceiling finishes, countertops, and backsplashes |
+| **CT** | Countertops | Scheduled countertop items |
+| **BS** | Backsplashes | Scheduled backsplash items |
 | **WT** | Window Treatments | Shades, blinds, draperies, tracks, and motorized systems |
 | **EX** | Exterior Accessories | House numbers, mailboxes, and other exterior accessories without a more specific category |
 | **FU** | Furniture | Scheduled or space-defining furniture requiring drawing coordination |
 | **SE** | Structural Members + Foundation Elements | Individually identified beams, posts, columns, footings, and similar elements, when included in the drawing scope |
+
+Material and finish selections use the separate [Materials + Finishes Legend](../schedules/materials-finishes-legend.md) classification rather than duplicate FN item identifiers. Compact material tags omit the hyphen; schedules and the legend retain it.
 
 Categorize by function rather than location: an exterior faucet uses **PF**, not **EX**. Keep any structural consultant's identifiers coordinated with their drawings and schedules.
 
@@ -75,7 +78,7 @@ Use one letter followed immediately by one or two numerals, with no separator: `
 | **W** | Wall Assembly | Wall or partition build-up |
 | **F** | Floor Assembly | Floor build-up |
 | **R** | Roof Assembly | Roof build-up |
-| **C** | Ceiling Assembly | Defined ceiling build-up; a finish alone uses an FN reference |
+| **C** | Ceiling Assembly | Defined ceiling build-up; a finish alone references the Materials + Finishes Legend |
 | **S** | Specialty Assembly | Specialty construction definitions, such as stair or railing assemblies |
 
 Foundation conditions are documented through specific construction details rather than a foundation assembly tag.
@@ -111,7 +114,7 @@ Room labels, grid references, and drawing callouts have separate identification 
 | Doors | Floor plans | Use normal door numbering, such as `101` and `201`. One identifier covers the complete assembly, including multi-leaf, folding, and specialty doors. Show swing and handing on plans; use the Door Type Legend for appearance/configuration. Repeat IDs on elevations only where needed. |
 | Cabinetry + Built-ins | Interior elevations | Identify cabinet groups or complete built-ins rather than every cabinet box. Plans establish arrangement; elevations establish composition, dimensions, finishes, and appliance relationships; shop drawings provide fabrication information where required. Use plan tags selectively. |
 | Appliances | Floor plans | Refer to the Appliance Schedule for manufacturer, model, and requirements. Use interior elevations to clarify cabinet and appliance relationships. |
-| Mechanical Equipment | Mechanical plans, or architectural plans where coordination requires | Keep equipment specifications in one coordinated schedule. Use sections or elevations to clarify clearances and spatial relationships. |
+| Building Equipment | Relevant system plans, or architectural plans where coordination requires | Keep equipment specifications in one coordinated schedule. Use sections or elevations to clarify clearances and spatial relationships. |
 | Lights + Fans | Reflected ceiling plans | Identify fixture types; repeated occurrences may share a type mark. RCPs establish fixture locations, ceiling relationships, beams, soffits, and alignment. Electrical plans establish switching, circuits, and controls. Use elevations for wall-mounted fixture heights. Combine RCP/electrical information on small projects when legible. |
 | Receptacles | Electrical power plans | Use symbols for standard duplex, GFCI-protected, weather-resistant exterior, floor, dedicated appliance, 240V, and USB devices. Use a product tag only for a specialty selection or installation. Add elevations for precise relationships to backsplashes, vanities, desks, or cabinetry. |
 
@@ -126,7 +129,8 @@ Product families and finishes belong in the applicable schedule or selections do
 
 Organize note and schedule blocks within the sheet's modular grid. Align block edges and headings with grid boundaries to create consistent, readable bands of information.
 
-- Use single-module widths for note and keynote blocks; span adjacent modules for wider schedules.
+- Use single-module widths for note and keynote blocks. Standard CD schedules occupy **two horizontal modules** in the **6 × 4 grid** on a **24 × 36 inch sheet**.
+- Vary schedule height to suit the content and associated notes.
 - Align neighboring block headings along a common horizontal line.
 - Place schedule-specific notes directly below the schedule they explain.
 - Group related blocks and keep their placement consistent across sheets, adjusting the arrangement to suit the drawings and available space.

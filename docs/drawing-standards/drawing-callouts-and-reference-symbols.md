@@ -1,6 +1,6 @@
 # Drawing Callouts and Reference Symbols
 
-**Last revised:** November 18, 2026
+**Last revised:** November 24, 2026
 
 Use consistent symbols to distinguish drawing references, item identifiers, line meanings, and work conditions.
 
@@ -37,7 +37,7 @@ Examples: `AA/A4.01` refers to Building Section AA on A4.01; `5/A6.01` refers to
 
 Symbol shape identifies the kind of reference; the text inside carries the applicable identifier. General Item Tags use two-letter category codes followed immediately by one or two numerals, such as `AP1` or `AP01`. Square Assembly Tags use a single category letter followed immediately by one or two numerals, such as `W1` or `R01`.
 
-Keynotes use numerals only. Foundation conditions use detail references rather than a foundation assembly tag. Windows, doors, lights, and fans retain their category-specific tags.
+Keynotes use numerals only. Schedule IDs include a hyphen for readability (`AP-01`); the corresponding drawing tag omits it (`AP01`). Foundation conditions use detail references rather than a foundation assembly tag. Windows, doors, lights, and fans retain their category-specific tags.
 
 ## Lines and Work Conditions
 

@@ -1,6 +1,8 @@
-# Cabinetry + Built-ins Schedule
+# Cabinetry Schedule
 
-**Last revised:** November 18, 2026
+**Last revised:** November 24, 2026
+
+Standard width: **two horizontal grid modules**. Height varies with content and associated notes. Drawing tags omit the schedule-ID hyphen: `CB01` references `CB-01`.
 
 ## Scope
 
@@ -14,13 +16,13 @@
 - Media units
 - Custom storage
 
-## Identifiers
+## Schedule Identifiers
 
-- `CB01`
-- `CB02`
-- `BI01`
+- `CB-01`
+- `CB-02`
+- `BI-01`
 
-## Proposed columns
+## Provisional Columns
 
 `ID | Item | Location | Construction | Finish | Remarks`
 
@@ -28,9 +30,9 @@
 
 | ID    | Item          | Location     | Construction | Finish    | Remarks        |
 | ----- | ------------- | ------------ | ------------ | --------- | -------------- |
-| CB01  | Base cabinets | Kitchen      | Semi-custom  | Painted   | See elevations |
-| CB02  | Vanity        | Primary Bath | Custom       | White oak | Wall-hung      |
-| BI01 | Storage bench | Mudroom      | Custom       | Painted   | See elevation  |
+| CB-01  | Base cabinets | Kitchen      | Semi-custom  | Painted   | See elevations |
+| CB-02  | Vanity        | Primary Bath | Custom       | White oak | Wall-hung      |
+| BI-01 | Storage bench | Mudroom      | Custom       | Painted   | See elevation  |
 
 ## Recommended rules
 

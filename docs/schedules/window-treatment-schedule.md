@@ -1,27 +1,30 @@
 # Window Treatment Schedule
 
-**Last revised:** November 18, 2026
+**Last revised:** November 24, 2026
+
+## Provisional Template
+
+The column structure is proposed and remains subject to refinement through project implementation.
+
+**Columns:** `ID | TYPE | MOUNT | OPERATION | NOTES`
+
+**Drawing tag:** `WT01`
+
+**Schedule ID:** `WT-01`
+
+Standard width: **two horizontal grid modules**. Height varies with content and associated notes.
 
 ## Scope
 
-- Roller shades
-- Blackout shades
-- Draperies
-- Blinds
-- Motorized treatments
-- Skylight shades
+Roller shades, blackout shades, drapery, blinds, motorized treatments, and skylight shades.
 
-Include a Window Treatment Schedule in CDs only when the architect's scope includes specifying or coordinating the treatments.
+## Coordination
 
-Otherwise, architectural drawings should document relevant provisions:
+- Include only when specifying or coordinating treatments is within the architectural scope.
+- Coordinate blocking, mounting, recesses, power, and controls.
+- Product selections may remain with the owner or interior designer where appropriate to the scope.
 
-- Recesses
-- Blocking
-- Power
-- Control locations
 
-Final product selections may remain with the owner or interior designer.
+## Related Standards
 
-## Related standards
-
-[General Scheduling Philosophy](general-scheduling-philosophy.md) · [General Schedule Identification Protocol](general-schedule-identification-protocol.md) · [SD/DD Selections Book](sd-dd-selections-book.md) · [SD/DD to CD Documentation Handoff](sd-dd-to-cd-documentation-handoff.md)
+[CD Schedule Inventory](recommended-construction-document-schedules.md) · [General Schedule Identification Protocol](general-schedule-identification-protocol.md) · [Drawing Notes and Tags](../drawing-standards/drawing-notes-and-tags.md)

@@ -1,27 +1,44 @@
 # Recommended Construction Document Schedules
 
-**Last revised:** November 18, 2026
+**Last revised:** November 24, 2026
 
-The following schedules were recommended.
+## CD Schedule Inventory
 
-| Schedule                        | Contents                                                     | Typical documentation                                 |
-| ------------------------------- | ------------------------------------------------------------ | ----------------------------------------------------- |
-| Appliance Schedule              | Kitchen, laundry, specialty appliances                       | Architectural CDs                                     |
-| Plumbing Fixture Schedule       | Sinks, faucets, toilets, tubs, shower fixtures               | Architectural CDs                                     |
-| Lighting + Fan Schedule         | Interior/exterior lights, exhaust fans, ceiling fans         | Architectural CDs                                     |
-| Hardware + Accessories Schedule | Bath accessories, coat hooks, closet rods, shelving hardware | Architectural CDs                                     |
-| Glass + Mirror Schedule         | Mirrors, shower glass, specialty interior glass              | Architectural CDs                                     |
-| Cabinetry + Built-ins Schedule  | Cabinets, benches, storage units, custom built-ins           | Architectural CDs                                     |
-| Mechanical Equipment Schedule   | HVAC and ventilation equipment, controls                     | Mechanical drawings or coordinated equipment schedule |
-| Finish Schedule                 | Countertops, backsplashes, flooring, wall finishes           | Architectural CDs                                     |
-| Window Treatment Schedule       | Shades, blinds, draperies, motors                            | Conditional; when included in project scope           |
+| Schedule | Standing |
+| --- | --- |
+| [Door Schedule](door-schedule-protocol.md) | Existing |
+| [Window Schedule](window-schedule-protocol.md) | Existing |
+| [Door Hardware Schedule](door-hardware-schedule.md) | Existing |
+| [Cabinetry Schedule](cabinetry-built-ins-schedule.md) | Existing |
+| [Room Finish Schedule](room-finish-schedule.md) | Confirmed |
+| [Materials + Finishes Legend](materials-finishes-legend.md) | Confirmed |
+| [Countertop + Backsplash Schedule](countertop-backsplash-schedule.md) | Proposed |
+| [Plumbing Fixture Schedule](plumbing-fixture-schedule.md) | Proposed |
+| [Appliance Schedule](appliance-schedule.md) | Proposed |
+| [Lighting + Fan Schedule](lighting-fan-schedule.md) | Proposed |
+| [Hardware + Accessories Schedule](hardware-accessories-schedule.md) | Proposed |
+| [Glass + Mirror Schedule](glass-mirror-schedule.md) | Proposed |
+| [Building Equipment Schedule](building-equipment-schedule.md) | Proposed |
+| [Window Treatment Schedule](window-treatment-schedule.md) | Proposed; scope-dependent |
 
-## Important distinction
+Existing and confirmed schedules form the current baseline. Proposed schedules and their provisional column structures remain subject to refinement through project implementation.
 
-The recommendation was to consolidate related products into a manageable number of schedules rather than create one schedule for every selection category.
+## Schedule Sheet Organization
 
-The user has not explicitly approved the complete schedule grouping.
+For residential projects where the schedules fit on two sheets, the recommended arrangement is:
 
-## Related standards
+| Sheet | Title |
+| --- | --- |
+| A0.02 | DOOR + WINDOW SCHEDULES |
+| A0.03 | SCHEDULES |
 
-[General Scheduling Philosophy](general-scheduling-philosophy.md) · [General Schedule Identification Protocol](general-schedule-identification-protocol.md) · [SD/DD Selections Book](sd-dd-selections-book.md) · [SD/DD to CD Documentation Handoff](sd-dd-to-cd-documentation-handoff.md)
+Add schedule sheets as project complexity warrants. These assignments illustrate the two-numeral sheet sequence; use the project's established sheet-number format.
+
+## Sheet Grid
+
+The standard CD sheet is **24 × 36 inches**, organized into **6 modules wide × 4 modules high**. CD schedules are **two horizontal grid modules wide**. Height varies with schedule content and associated notes.
+
+
+## Related Standards
+
+[CD Schedule Inventory](recommended-construction-document-schedules.md) · [General Schedule Identification Protocol](general-schedule-identification-protocol.md) · [Drawing Notes and Tags](../drawing-standards/drawing-notes-and-tags.md)

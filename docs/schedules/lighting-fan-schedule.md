@@ -1,47 +1,31 @@
 # Lighting + Fan Schedule
 
-**Last revised:** November 18, 2026
+**Last revised:** November 24, 2026
+
+## Provisional Template
+
+The column structure is proposed and remains subject to refinement through project implementation.
+
+**Columns:** `ID | TYPE | MOUNTING | MANUFACTURER | MODEL | FINISH | NOTES`
+
+**Drawing tag:** `L01 / F01`
+
+**Schedule ID:** `L-01 / F-01`
+
+Standard width: **two horizontal grid modules**. Height varies with content and associated notes.
 
 ## Scope
 
-- Recessed downlights
-- Pendants
-- Sconces
-- Decorative lighting
-- Exterior lighting
-- Ceiling fans
-- Bathroom exhaust fans
-- Combination fan/light units
+Downlights, pendants, sconces, exterior fixtures, exhaust fans, ceiling fans, and combination fan/light units.
 
-## Proposed identifiers
+## Coordination
 
-- `L-01`
-- `L-02`
-- `F-01`
+- Coordinate locations and mounting with ceiling plans, elevations, electrical controls, and ceiling conditions.
+- Include airflow and noise information for exhaust fans where needed, in NOTES or coordinated system documentation.
+- Include ceiling-fan diameter and light-kit information where relevant.
+- Lights and fans retain their dedicated drawing tag symbols.
 
-## Proposed columns
 
-`ID | Fixture Type | Manufacturer | Model | Finish | Remarks`
+## Related Standards
 
-## Worked example
-
-| ID   | Fixture Type       | Manufacturer | Model | Finish | Remarks        |
-| ---- | ------------------ | ------------ | ----- | ------ | -------------- |
-| L-01 | Recessed downlight | TBD          | TBD   | White  | Dimmable       |
-| L-02 | Pendant            | TBD          | TBD   | Bronze | Kitchen island |
-| F-01 | Exhaust fan        | TBD          | TBD   | White  | Bath 1         |
-
-## Additional requirements
-
-Exhaust fan documentation should include relevant performance information, such as:
-
-- Airflow
-- Noise rating
-
-Ceiling fans should include diameter and light-kit information where relevant.
-
-The final placement of these performance fields in the schedule versus mechanical documentation remains unresolved.
-
-## Related standards
-
-[General Scheduling Philosophy](general-scheduling-philosophy.md) · [General Schedule Identification Protocol](general-schedule-identification-protocol.md) · [SD/DD Selections Book](sd-dd-selections-book.md) · [SD/DD to CD Documentation Handoff](sd-dd-to-cd-documentation-handoff.md)
+[CD Schedule Inventory](recommended-construction-document-schedules.md) · [General Schedule Identification Protocol](general-schedule-identification-protocol.md) · [Drawing Notes and Tags](../drawing-standards/drawing-notes-and-tags.md)

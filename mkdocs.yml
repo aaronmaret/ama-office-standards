@@ -47,17 +47,20 @@ nav:
   - General Scheduling Philosophy: schedules/general-scheduling-philosophy.md
   - Recommended Construction Document Schedules: schedules/recommended-construction-document-schedules.md
   - General Schedule Identification Protocol: schedules/general-schedule-identification-protocol.md
-  - Appliance Schedule: schedules/appliance-schedule.md
+  - Door Schedule: schedules/door-schedule-protocol.md
+  - Window Schedule: schedules/window-schedule-protocol.md
+  - Door Hardware Schedule: schedules/door-hardware-schedule.md
+  - Cabinetry Schedule: schedules/cabinetry-built-ins-schedule.md
+  - Room Finish Schedule: schedules/room-finish-schedule.md
+  - Materials + Finishes Legend: schedules/materials-finishes-legend.md
+  - Countertop + Backsplash Schedule: schedules/countertop-backsplash-schedule.md
   - Plumbing Fixture Schedule: schedules/plumbing-fixture-schedule.md
+  - Appliance Schedule: schedules/appliance-schedule.md
   - Lighting + Fan Schedule: schedules/lighting-fan-schedule.md
   - Hardware + Accessories Schedule: schedules/hardware-accessories-schedule.md
   - Glass + Mirror Schedule: schedules/glass-mirror-schedule.md
-  - Cabinetry + Built-Ins Schedule: schedules/cabinetry-built-ins-schedule.md
-  - Mechanical Equipment Schedule: schedules/mechanical-equipment-schedule.md
-  - Finish Schedule: schedules/finish-schedule.md
+  - Building Equipment Schedule: schedules/building-equipment-schedule.md
   - Window Treatment Schedule: schedules/window-treatment-schedule.md
-  - Door Schedule Protocol: schedules/door-schedule-protocol.md
-  - Window Schedule Protocol: schedules/window-schedule-protocol.md
   - SD/DD Selections Book: schedules/sd-dd-selections-book.md
   - Selections Book Tab Schemas: schedules/selections-book-tab-schemas.md
   - Selections Status Protocol: schedules/selections-status-protocol.md

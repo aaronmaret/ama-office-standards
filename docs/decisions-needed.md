@@ -22,3 +22,8 @@ Recover and verify the original wording for gridline references, structural-post
 
 - Multi-building door and window numbering is intentionally undefined for now.
 - Specialty door assemblies, skylights, and grouped windows use normal door/window numbering, with each assembly identified as one item.
+
+## CD Schedule Follow-Up
+
+- Classify engineered quartz, solid surface, and plastic laminate in the Materials + Finishes Legend before introducing additional material categories.
+- Refine provisional CD schedule columns through project implementation.
